@@ -1,0 +1,20 @@
+---
+
+---
+
+<canvas id="destination-atop" width="100px" height="100px"></canvas>
+<script>
+  function renderDestinationAtop() {
+    const canvas = document.getElementById("destination-atop") as HTMLCanvasElement;
+    const ctx = canvas.getContext("2d");
+    if (ctx) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = "blue";
+      ctx.fillRect(5, 5, 50, 50);
+      ctx.globalCompositeOperation = "destination-atop";
+      ctx.fillStyle = "red";
+      ctx.fillRect(25, 25, 50, 50);
+    }
+  }
+  renderDestinationAtop();
+</script>

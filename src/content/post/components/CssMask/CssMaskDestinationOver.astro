@@ -1,0 +1,21 @@
+---
+
+---
+
+<canvas id="destination-over" width="100px" height="100px"></canvas>
+
+<script>
+  function renderDestinationOver() {
+    const canvas = document.getElementById("destination-over") as HTMLCanvasElement;
+    const ctx = canvas.getContext("2d");
+    if (ctx) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = "blue";
+      ctx.fillRect(5, 5, 50, 50);
+      ctx.globalCompositeOperation = "destination-over";
+      ctx.fillStyle = "red";
+      ctx.fillRect(25, 25, 50, 50);
+    }
+  }
+  renderDestinationOver();
+</script>

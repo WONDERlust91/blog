@@ -1,0 +1,49 @@
+---
+
+---
+
+<style>
+  .sector {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transform: rotate(45deg);
+    transition: clip-path 0.2s;
+  }
+</style>
+
+<div class="sector"></div>
+<input type="range" name="sector" id="range" min="0" max="100" />
+
+<script>
+  const sectorDom: HTMLElement | null = document.querySelector(".sector");
+  function setSector(dom: HTMLElement, options: { color: string; ratio: number }) {
+    dom.style.backgroundColor = options.color;
+    if (options.ratio >= 0 && options.ratio <= 25) {
+      dom.style.clipPath = `polygon(50% 50%, 0% 0%, ${(options.ratio / 25) * 100}% 0%, ${
+        (options.ratio / 25) * 100
+      }% 0%, ${(options.ratio / 25) * 100}% 0%, ${(options.ratio / 25) * 100}% 0%)`;
+    } else if (options.ratio > 25 && options.ratio <= 50) {
+      dom.style.clipPath = `polygon(50% 50%, 0% 0%, 100% 0%, 100% ${((options.ratio - 25) / 25) * 100}%, 100% ${
+        ((options.ratio - 25) / 25) * 100
+      }%, 100% ${((options.ratio - 25) / 25) * 100}%)`;
+    } else if (options.ratio > 50 && options.ratio <= 75) {
+      dom.style.clipPath = `polygon(50% 50%, 0% 0%, 100% 0%, 100% 100%, ${(1 - (options.ratio - 50) / 25) * 100}% 100%, ${
+        (1 - (options.ratio - 50) / 25) * 100
+      }% 100%)`;
+    } else if (options.ratio > 75 && options.ratio <= 100) {
+      dom.style.clipPath = `polygon(50% 50%, 0% 0%, 100% 0%, 100% 100%, 0% 100%, 0% ${
+        (1 - (options.ratio - 75) / 25) * 100
+      }%)`;
+    } else {
+      console.error("请在options.ratio属性上输入0-100的数字表示比率范围");
+    }
+  }
+  const inputRangeDom = document.getElementById("range");
+  if (sectorDom && inputRangeDom) {
+    setSector(sectorDom, { color: "red", ratio: 50 });
+    inputRangeDom.addEventListener("change", (event: any) => {
+      setSector(sectorDom, { color: "red", ratio: event.target?.value });
+    });
+  }
+</script>
