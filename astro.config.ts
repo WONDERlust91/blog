@@ -1,6 +1,6 @@
 import fs from "node:fs";
 // Rehype plugins
-import { rehypeHeadingIds } from "@astrojs/markdown-remark";
+import { rehypeHeadingIds, unified } from "@astrojs/markdown-remark";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@tailwindcss/vite";
@@ -67,24 +67,27 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    rehypePlugins: [
-      rehypeHeadingIds,
-      [rehypeAutolinkHeadings, { behavior: "wrap", properties: { className: ["not-prose"] } }],
-      [
-        rehypeExternalLinks,
-        {
-          rel: ["noreferrer", "noopener"],
-          target: "_blank",
-        },
+    // Astro 7 defaults to Sätteri; use unified (remark/rehype) for existing plugins
+    processor: unified({
+      rehypePlugins: [
+        rehypeHeadingIds,
+        [rehypeAutolinkHeadings, { behavior: "wrap", properties: { className: ["not-prose"] } }],
+        [
+          rehypeExternalLinks,
+          {
+            rel: ["noreferrer", "noopener"],
+            target: "_blank",
+          },
+        ],
+        rehypeUnwrapImages,
       ],
-      rehypeUnwrapImages,
-    ],
-    remarkPlugins: [remarkReadingTime, remarkDirective, remarkGithubCard, remarkAdmonitions],
-    remarkRehype: {
-      footnoteLabelProperties: {
-        className: [""],
+      remarkPlugins: [remarkReadingTime, remarkDirective, remarkGithubCard, remarkAdmonitions],
+      remarkRehype: {
+        footnoteLabelProperties: {
+          className: [""],
+        },
       },
-    },
+    }),
   },
   vite: {
     optimizeDeps: {
