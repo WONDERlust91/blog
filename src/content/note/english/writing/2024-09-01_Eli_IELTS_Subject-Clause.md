@@ -41,7 +41,7 @@ description: 2024-09-01 writing
 
       e.g. A 51 percent jump in annual profits would help the company get out of trouble.
 
-5. There's general agreement that this is a big deal for the US.
+5. **There's general agreement that** this is a big deal for the US.
 
    积累：There's general agreement that... 普遍同意... （通常后面跟要反驳的观点）
 
@@ -69,6 +69,8 @@ description: 2024-09-01 writing
 
    积累： rather than 而不是
 
+   Rather than A, I hold that B.
+
    e.g. Rather than learning only compulsory courses in university, students are encouraged to take all sorts of elective ones to broaden their horizons in other fields.
 
 10. The research only scratches the surface of what is going on in the rubbish piles.
@@ -76,6 +78,8 @@ description: 2024-09-01 writing
     积累：sth. only scratch the surface of what is going on in sth.
 
 11. embrace the idea 支持这个观点
+
+    embrace 是及物动词
 
 12. A taxing task 非常消耗的任务
 
@@ -93,7 +97,12 @@ description: 2024-09-01 writing
 
     积累： be predicated on 取决于...；基于...
 
+    My idea is mainly predicated on the fact that + 句子。
+
+    I assert/hold/imply that 表观点
+
     e.g. On the market reaction, the current gloomy outlook is predicated on reduced growth prospects.
+
     - predict v. 预测、预计
 
       predicate n. 谓语 v. 断言（为真）、声称为真；基于、取决于
@@ -101,6 +110,8 @@ description: 2024-09-01 writing
 16. With so many different species present, the chances are high that...
 
     积累： With sth., the chances are high that... 伴随着...的情况，有很大概率...
+
+    = It is possible that + 句子
 
 17. Buoyed by an audience of billions, platforms yearning for new content, and vast reserves of cash, the creator economy has grown prodigiously fast.
 
@@ -160,6 +171,7 @@ description: 2024-09-01 writing
    e.g. That I played soccer today is true.
 
 2. what who how where when
+
    1. what who 词性为 n. 做主语或宾语，是从句主体（主谓宾）的一部分
 
       (Who makes you happy) is also a great man. （who 作从句的主语）
@@ -189,7 +201,7 @@ Discuss both these views and give your own opinion.
 3. 主体段：观点 2 + 理由（正方观点、支持观点）（110 字）
 4. 总结段：观点 1 + 观点 2 + 所以（50 字）
 
-列题纲：目的是作文写到后期不会忘记主题是什么
+考场一定列题纲：目的是作文写到后期不会忘记主题是什么，防跑题
 
 观点 1（正方）：
 
@@ -210,3 +222,47 @@ On one hand, in terms of finding new sources, some people's idea is predicated o
 Although we have made strides in pinpointing new sources in the last couple of decades, the excavation process has led to huge damage to our environment. For example, the refinement and purification of these new resources could cause far-reaching effects on various areas in our environment. And the utilization of some new resources like electricity has greatly to do with many batteries, which undoubtedly could leave permanent dents on our planet.
 
 In conclusion, discovering new energy sources is never easy, and it is made even harder by dint of the fact that some new energy sources could cause adverse impacts on our environment. Because these two kinds of ideas only scratch the surface of what is going on in terms of energy industry, we actually should take a comprehensive and holistic approach to improve the employment and discovery of energy resources.
+
+1. excavation n. 挖掘、勘探
+
+2. pinpointing v. 准确找到
+
+3. purification n. 提纯化
+
+4. dent n. 凹痕、划痕、伤痕
+
+5. In conclusion / To sum up
+
+6. holistic adj. 整体的、全面的
+
+## 练习
+
+It seemed that everyone took it as read that oil and gas are main souce of energy. Also, there's general agreement that fossil energy will bring about pollution in our environment. Although we have already made prodigiously strides in environment protection by scientific progress, we still need scientist to look for new energy source.
+
+Some people won't chime with this idea. Rather than finding some new energy souce to replace fossil one, they embrace the idea that we shouldn't search for new energy, because searching itself is a taxing task, which will cause too much damage to the environment. They believe finding new energy only scratch the surface of what is going on protecting environment. Actually more damage via excavation or test could be the case.
+
+I have a different aspect of view about searching new energy. With technology and science progress, the chances are high that we could use little damage to search or tap into massive new energy source, which could massively reduce pollution than fossil energy. Scientific methods will amplify the benefit of new energy using and searching only with little cost and can be easy to fix. There is also plenty of evidence showing that the fossil energy is limited, and many countries don't have abundant fossil mineral deposit. We need to get to grips with solving real questions like pollution or damage to the environment in searching new energy source, rather than scared what will happen if we searching.
+
+In conclusion, some people hold that searching new energy source could cause too much damage to our planet. I know making progress in new energy searching is never easy, and it is made even harder by dint of the fact that searching activities may cause damage and pollution. I assert we will gain more benefit than harm on searching new energy.
+
+## 语法错误修改版
+
+It seems that everyone takes it as read that oil and gas are the main sources of energy. Also, there is general agreement that fossil fuels will bring about pollution to our environment. Although we have already made prodigious strides in environmental protection through scientific progress, we still need scientists to look for new energy sources.
+
+Some people do not chime with this idea. Rather than finding some new energy sources to replace fossil ones, they embrace the idea that we should not search for new energy, because searching itself is a taxing task, which will cause too much damage to the environment. They believe finding new energy only scratches the surface of what is going on in protecting the environment. Actually, more damage via excavation or testing could be the case.
+
+I have a different point of view about searching for new energy. With the progress of technology and science, the chances are high that we could search for or tap into massive new energy sources with little damage, which could massively reduce pollution compared with fossil energy. Scientific methods will amplify the benefits of using and searching for new energy, only with little cost, and any damage can be easy to fix. There is also plenty of evidence showing that fossil energy is limited, and many countries do not have abundant fossil mineral deposits. We need to get to grips with solving real problems like pollution or damage to the environment while searching for new energy sources, rather than being scared of what will happen if we search.
+
+In conclusion, some people hold that searching for new energy sources could cause too much damage to our planet. I know making progress in searching for new energy is never easy, and it is made even harder by dint of the fact that searching activities may cause damage and pollution. I assert that we will gain more benefits than harm from searching for new energy.
+
+## AI修改7分版
+
+The increasing global demand for oil and gas has intensified the debate over whether scientists should prioritise the development of alternative energy sources. While some people argue that this search is essential for long-term sustainability, others believe that the process of exploration itself causes unacceptable damage to the environment. In my view, although the search for new energy carries certain environmental risks, these can be effectively managed, and the benefits far outweigh the drawbacks.
+
+Those who support the pursuit of new energy sources emphasise the limited reserves of fossil fuels and the severe pollution they generate. Oil and gas are finite resources, and many countries already face shortages or heavy dependence on imports. Continuing to rely on them will only accelerate climate change and air pollution. Scientific research into renewables such as solar, wind and hydrogen has already demonstrated that cleaner alternatives can significantly reduce carbon emissions over time. With continuous technological progress, the long-term environmental gains from these new sources are substantial.
+
+On the other hand, opponents contend that the search for alternative energy can itself harm the environment. Exploring and testing new technologies often involves large-scale excavation, mining of rare materials, or experimental facilities that disrupt ecosystems and contaminate water sources. They argue that such activities merely shift the environmental burden rather than solve the underlying problem. In their view, focusing on reducing current energy consumption and improving efficiency would be a less damaging approach than launching extensive new exploration projects.
+
+Nevertheless, I believe the advantages of searching for new energy sources outweigh the potential risks. Modern scientific methods, combined with stricter environmental regulations, allow researchers to minimise ecological damage during the exploration phase. Moreover, any short-term harm caused by research is far smaller than the cumulative damage of continued fossil fuel use. Countries lacking sufficient oil and gas reserves particularly need viable alternatives to ensure energy security without further degrading the planet.
+
+In conclusion, while the process of discovering new energy sources may involve some environmental costs, these can be controlled through careful planning and technology. Given the finite nature of fossil fuels and their serious long-term consequences, actively searching for cleaner alternatives remains both necessary and beneficial.

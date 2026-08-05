@@ -158,13 +158,28 @@ PlayIntegrityFix 主要修复 TEE 证书以外的 system prop 类参数。例如
 
 ---
 
-## 十、一点观察
+## 十、正确保留 Root 的 OTA 更新步骤
+
+现代手机基本都是 A/B 分区，KernelSU 官方支持「安装到另一个分区」：
+
+1. 打开 系统更新 → 下载并**安装**本周的新 LineageOS 包。
+2. 安装完成后先不要重启（非常重要）。
+3. 打开 KernelSU 管理器。
+4. 点击 Working 状态项 进入「安装」→ 选择 「安装到另一个分区（After OTA）」 / Install to inactive slot。
+5. 等待修补完成。
+6. 重启（或者回到系统更新界面，从那里重启也行）。
+
+重启后就会进入新系统，并且 Root 仍然保留。
+
+这是 KernelSU 官方文档里明确推荐的 OTA 后操作方式。
+
+## 十一、一点观察
 
 一圈折腾下来，明显感觉到这个圈子里很多开源作者被滥用、黑产以及不良用户逼得选择了闭源，转而在 Telegram 渠道发布。真正还在坚持开源的作者已经越来越少。
 
 ---
 
-## 十一、参考链接
+## 十二、参考链接
 
 1. [KernelSU 官方文档](https://kernelsu.org/zh_CN/)
 2. [KernelSU 模块仓库](https://modules.kernelsu.org/)

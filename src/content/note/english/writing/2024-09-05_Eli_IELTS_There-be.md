@@ -99,6 +99,9 @@ description: 2024-09-05 writing
 8. The problem was compounded by successive heatwaves and a long drought during July and August 2022, which depleted water levels throughout the river and concentrated pollution.
 
    积累：compound v. 使...恶化
+   - n. 化合物、复合物；有围墙的区域（工厂、大房子、监狱等）
+   - adj. 合成的、化合的
+   - v. 组成；使...恶化；私了重罪
 
    e.g. Students' lack of contact with the outside world compounds their problems.
 
@@ -145,10 +148,22 @@ Somepeople think that teachers are no longer needed because students can study v
 互联网好：有资源、快、老师多
 老师好：具体问题具体分析、情感帮助、不限地点
 
-There is a lot of heated debates about the significance of teachers and the internet for education. Although some still cling to hold that the internet has become one of the most dispensable tools for any students, I am still fully convinced that nowadays students can not fully achieve their learnings in any fields without the help of teachers.
+There is a lot of heated debates about the significance of teachers and the internet for education. Although some still cling to hold that the internet has become one of the most indispensable tools for any students, I am still fully convinced that nowadays students can not fully achieve their learnings in any fields without the help of teachers.
 
-There are countless aspects that have showcased the unpeaceable functions of the internet for education in our society. To start with, the huge quantity of useful resources on the internet is one thing, but the quality now about valuable information in terms of all subjects is quite another. For example, due to the stricter regulations, many authorities have made sure we can download secure and diverse files and clips from the internet to assist our learning in school. Besides, there has definitely become the internet where in order to make more contributions to our society, thousands of terrific and prestigious teachers and instructors wholeheartedly share their invaluable wisdom for free for any student who can reach them.
+There are countless aspects that have showcased the unpeaceable(老师写错了？可能是impeccable) functions of the internet for education in our society. To start with, the huge quantity of useful resources on the internet is one thing, but the quality now about valuable information in terms of all subjects is quite another. For example, due to the stricter regulations, many authorities have made sure we can download secure and diverse files and clips from the internet to assist our learning in school. Besides, there has definitely become the internet where in order to make more contributions to our society, thousands of terrific and prestigious teachers and instructors wholeheartedly share their invaluable wisdom for free for any student who can reach them.
 
 However, behind a huge number of great student learning results are many wonderful teachers characteristics: teacher's practical teaching experience, emotional support for students. First, assuming that a student meets a specific problem for himself and could not solve it for a long time even with the help of the internet, a teacher who has taught him in real classroom and known his drawbacks, can take advantage of hands-on experience to deal with his problems. There are many cases where some schools have painted a pretty dark picture for plenty of students because of further education pressure and negative managing styles. Under this circumstance, teachers, who basically spend most of their time with their students in school, could offer crucial emotional support for them, which is able to assuage students' emotional anxiety.
 
 In conclusion, although some still cling to think that teachers now can not do their jobs without internet, I am convinced that the converse was also true for education.
+
+1. dispensable adj. 非必要的、可有可无的 = superfluous
+
+   indispensable adj. 不可或缺的
+
+2. impeccable adj. 无可挑剔的、高标准的
+
+3. 1. 任何名词 都可以加形容词
+   2. 任何动词 都可以加副词
+   3. 任何句子 都可以加介词短语修饰
+
+4. assuage v. 缓和 = relieve, ease, alleviate, soothe, mitigate, dampen
