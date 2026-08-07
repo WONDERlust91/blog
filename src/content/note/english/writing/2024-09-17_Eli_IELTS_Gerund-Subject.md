@@ -25,7 +25,9 @@ description: 2024-09-17 writing
 
      This improvement of sth. could help us ...
 
-3. A and B + 谓语，注意谓语是 A 和 B 共同发出的，不是 B 单独发出
+3. 句子越长，犯错比例越高，能力不够时候不要写长句子。
+
+   A and B + 谓语，注意谓语是 A 和 B 共同发出的，不是 B 单独发出
 
 ## 动名词作主语从句
 
