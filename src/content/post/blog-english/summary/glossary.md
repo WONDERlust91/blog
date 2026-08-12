@@ -317,6 +317,10 @@ pinned: true
   1. adjective: (of a language) open to more than one interpretation; having a double meaning. （语言）接受不止一种解释；有双重含义。
      - unclear or inexact because a choice between alternatives has not been made. 不清楚或不准确，因为尚未在备选项间做出选择。
 
+- ameliorate
+
+  1. verb. (FORMAL) make (something bad or unsatisfactory) better. = improve
+
 - amid
   1. preposition: surrounded by; in the middle of. 被围绕；在中间。相当于 in 或 among。
 

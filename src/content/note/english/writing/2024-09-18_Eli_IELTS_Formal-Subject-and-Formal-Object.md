@@ -67,11 +67,17 @@ I want to make it possible for me to do sth.
 
    e.g. Just when it seemed that things could not look more like the end of days, Covid-19 has joined the list.
 
+   正面表达 Just when it seemed that things could not look more wonderful, sth. has joined the list.
+
 2. It is too early to say what good the technology will do, but this alone gives one reason to be optimistic.
 
    积累： It is too early to say what good sth. will do, but this alone gives one reason to be optimistic.
 
    e.g. It is too early to say what good Artificial Intelligence will do, but this alone gives one reason to be optimistic.
+
+   如何用不同句型表达同一个意思：缺乏信任和语言barrier，让病人不能积极治疗。
+
+   It is too early to say what effects the lack of trust and language barriers will do, but the unwillingness for patients to actively accept treatments could give us one reason to be pessimistic.
 
 3. Many factors have contributed to this situation: industrial growth, a population boom and the proliferation of vehicles.
 
@@ -84,6 +90,10 @@ I want to make it possible for me to do sth.
    积累： the need is likely only to intensify
 
    e.g. As an increasing number of students realize the advantages of Internet, the need for computer surfing is likely only to intensify, regardless of their parents' attitude.
+
+   如何用不同句型表达同一个意思：糖尿病患者越来越多，控糖药物的开发很有用。
+
+   With the number of diabetes patients growing dramatically, the need for this kind of drugs is likely only to intensify.
 
 5. Cities have enormous potential for improving people's lives, but inadequate urban management, often based on inaccurate perceptions and information, can turn opportunity into disaster.
 
@@ -105,11 +115,25 @@ I want to make it possible for me to do sth.
 
    Buying more electric cars instead of traditional cars is the viewpoint gaining ground among younger generations, who are more likely to enjoy new technologies.
 
+   temper n. 脾气；（金属）的硬度 v. 锻打、淬炼；对（某事物）中和或平衡；调音
+
+   如何用不同句型表达同一个意思：糖尿病患者越来越多，控糖药物的开发很有用。
+
+   Fastening the development of this kind of drugs is the viewpoint gaining ground among more and more diabetes patients, whose number has been increasing dramatically recently.
+
 8. In fact, we are nowhere close to reaching a peak in global oil supplies.
 
    积累： nowhere close to doing sth. 达不到做某事
 
    e.g. Many students under 18 years old echo that they are already mature enough to make every important decision by themselves. In fact, they are nowhere close to being able to shoulder all the responsibilities of their lives without their parents' guide.
+
+   如何用不同句型表达同一个意思：糖尿病患者越来越多，控糖药物的开发很有用。
+
+   Our society are nowhere close to the situation where this kind of drugs are enough for more and more diabetes patients whose number has been increasing dramatically recently.
+
+   如何用不同句型表达同一个意思：缺乏信任和语言barrier，让病人不能积极治疗。
+
+   Our environment in many hospitals are nowhere close to the atmosphere that could let patients actively accept treatments, due to lacking reliance and having language barriers.
 
 9. And yet volunteers rushing in is not the main determinant of how easily somewhere recovers.
 
@@ -120,6 +144,8 @@ I want to make it possible for me to do sth.
 10. The issue of global warming has been front page/headline news for more than a decade and fodder for environmentalists and policymakers everywhere.
 
     heatedly discussed topic
+
+    fodder n. 饲料 v. 投喂饲料
 
 ## 题目
 
@@ -134,3 +160,5 @@ The most important aim of science is to improve people's life. To what extent do
 Just when it seems that there are no more topics that is worth discussing all over the world for every resident on our planet, the aim of science as an issue has joined the list. It is too early to say that the aim of science must be to improve people's life, the factors following that I mentioned will give more reasons to be optimistic in terms of this idea.
 
 First, as human society continues to advance, the efficiency of people working and communicating between each other has been significantly raised/increased/boosted. To begin with, science unbelievably ameliorating the transportation tools and decreasing the commuting time between work and home are the viewpoint gaining ground among our generations who are more and more dependent on modern science. In addition, our society are nowhere close to the situation where we could extend human being's longevity and lower the risk of various diseases without the help of science.
+
+- ameliorate v. 改善 make (something bad or unsatisfactory) better. = improve

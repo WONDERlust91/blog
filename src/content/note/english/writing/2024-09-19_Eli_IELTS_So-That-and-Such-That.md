@@ -6,9 +6,11 @@ description: 2024-09-19 writing
 
 ## So That/Such That
 
-so adv. 修饰动词、形容词、副词
+so 词性是 adv. ，adv. 修饰动词、形容词、副词，但 so 只用在修饰形容词和副词
 
-such adj. 修饰名词
+such 词性是 adj. ，adj. 修饰名词
+
+so that 连在一起，词性是 conj. 连词，和 and, but 一样用法
 
 1. so adj./adv. that 完整句子
 
@@ -16,11 +18,15 @@ such adj. 修饰名词
 
    There is an apple so delicious that I want to eat it.
 
-2. such n. that 完整句子
+   Broadcasters are still making the bet that live sports will continue to fascinate TV audiences so diverse/wonderfully that there are countless kinds of them.
 
-   There is such a perfect book that is useful that I want to read it.
+   如果是 diverse，形容词修饰名词 audiences，如果是 wonderfully，副词修饰动词 fascinate
 
    I have a book, which tagut me something so effective that I know everything.
+
+2. such n. that 完整句子
+
+   There is such a perfect book that is useful that I want to read it. 第一个 that 是 book 的定语从句，第二个 that 是 such that
 
 3. 句子 1, so that 句子 2
 
@@ -31,6 +37,8 @@ such adj. 修饰名词
 ## 外刊句式积累
 
 1. So time equals difficulty, which then translates into importance, which leads to even more time spent deciding.
+
+   句子, which 句子, which 句子. 用这种句式来表达层层递进或因果的关系
 
    我们应该读书，因为读书可以让我们积累知识，就可以让我们找到更好的工作。
 
@@ -52,6 +60,7 @@ such adj. 修饰名词
 
 4. Interest in hosting the five-ringed circus waned in the 1970s after a series of games tainted by terrorist attacks, crippling debt and boycotts.
    - wane vi. 衰落、（月亮）亏缺（不及物）
+   - wax n. 蜡 v. 打蜡；（月亮）变满月
 
    - cripple v. 破坏、削弱；导致变成残疾 n. 在某方面有严重限制的人 an emotional cripple 情感障碍者
 

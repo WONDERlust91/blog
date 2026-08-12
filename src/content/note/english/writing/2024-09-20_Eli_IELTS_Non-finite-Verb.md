@@ -15,9 +15,11 @@ description: 2024-09-20 writing
    watching the show 非谓语 作 spectators 的定语
 
    meaning/suggesting that 非谓语 + 宾语从句
+
    1. 必须快速反应出只有在这句话已经有了谓语（主谓宾）的情况下，才会出现非谓语
 
    2. 非谓语动词也是动词，但凡是动词你就要去想谁发出的动词
+
       - 没有逗号，动词发出者通常为前面的名词
 
         I like this book making me happy
@@ -43,6 +45,7 @@ description: 2024-09-20 writing
         I like to do exercises, making me happy. 整句
 
 2. 前置非谓语：非谓语(Doing/Done) + 宾语, 主语 + 谓语 + 宾语.
+
    1. 前置非谓语通常由主句的主语发出
 
       Reading this book, my teacher is happy.
@@ -53,7 +56,9 @@ description: 2024-09-20 writing
 
       Looking from a broad perspective, we can see a trend. 整句
 
-3. 句中非谓语：主语, 定语（非谓语）, 谓语 + 宾语.
+3. 句中非谓语：主语, 定语(非谓语), 谓语 + 宾语.
+
+   这是英语最常见的句型 主语, 定语(形容词、定语从句、同位语、介词短语、非谓语), 谓语 + 宾语.
 
    这种句型通常只是修饰主语，没有明显顺序关系
 
@@ -145,3 +150,7 @@ Do you think the advantages of working for yourself outweigh the drawbacks?
 Among the topics that are heatedly debated by a lot of people in our society is whether to work for themselves or for an employer for the younger generation. Running their own business, aspired by countless young people nowadays, certainly boasts many benefits for them. For anyone who may doubt the advantages of being an entrepreneur, however, the following reasons could provide strong evidence that this behavior is full of risks.
 
 First, if your business skills and experience are in unmature level, starting up your own business could be full of financial risks, particularly when you spend your own money to create your company. Especially the story where a start-up company has gained a large sum of profits in a wonderful economic environment may end differently when there is a financial downturn in our society. Second, lacking necessary experience in business and stable mindsets for being a boss, some young adults as a novel entrepreneur could face much mental pressure from all kinds of obstacles in running their own business. As to what a confused/perplexing and exhausted mindset in management could result in, many wrong and regrettable decisions may be on the way in the future, which could seriously affect a company's performance.
+
+- novel n. 小说 adj. 新兴的
+
+- perplex v. 使（某人）困惑
