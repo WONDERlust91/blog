@@ -21,29 +21,31 @@ Among countless functions of music, it is music that can connect various people.
    核心：当我们去掉 "It is" 和 "that"，剩下的部分合在一起依旧是完整句子。
 
    因此强调句甚至可以强调状语从句、介词短语、动名词做主语、主语从句
-   - 介词短语/(连词 + 分句), 主句
 
-     强调后：
+   - 强调状语从句（关系连词 + 分句, 主句）
 
-     It is 介词短语/(连词 + 分句) that 主句
-
-     It is in my school that I want to learn things.
+     强调后：It is 关系连词 + 分句 that 主句.
 
      It is if you come to my school that I will do this.
 
      It is when you are happy that I want to eat a pear.
 
-   - 动名词/主语从句 + 谓语 + 宾语
+   - 强调介词短语
 
-     强调后：
+     强调后：It is 介词短语/(连词 + 分句) that 主句
 
-     It is 动名词/主语从句 that 谓语 + 宾语
+     It is in my school that I want to learn things.
+
+   - 强调动名词/主语从句（动名词/主语从句 + 谓语 + 宾语）
+
+     强调后：It is 动名词/主语从句 that 谓语 + 宾语
 
      It is playing games that is a good way of relaxing.
 
      It is what you read everyday that is useful.
 
    例句：
+
    1. 电动车可以保护环境
 
       EVs can help improve our environment.
@@ -91,6 +93,8 @@ Among countless functions of music, it is music that can connect various people.
 3. This is **in line with** humans, but **in stark contrast to** chimpanzees, which frequently kill chimps in other groups.
 
    积累： A is in line with B, but in stark contrast to C.
+
+   stark adj. 锐利的、清晰的（在外观或轮廓上）；完全的、纯粹的；僵硬的（肢体上）
 
    e.g. The idea to ban children from using cellphones is in line with most of parents, but in stark contrast to the opponents who echo what advantages the young could take of by the handsets.
 

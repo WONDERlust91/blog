@@ -16,7 +16,7 @@ description: 2024-09-22 writing
 
 I like this idea that you let me play soccer.
 
-我非常喜欢你这个想法，这个想法让我走上了踢球的道路。（定语从句）
+我非常喜欢你这个想法，这个想法让我走上了踢球的道路。（定语从句）想法的内容是什么并不知道，只是想法让我走上了踢球的道路。
 
 I like this idea that lets me play soccer.
 
@@ -24,13 +24,19 @@ I like this idea that lets me play soccer.
 
 1. 同位语从句用 that 引导，且 that 之后是完整句子
 
-   I like this fact/idea/opinion/news/story that ...
+   I like this fact/idea/opinion/news/story/content/evidence that ...
+
+   我知道电动车可以帮大家节省燃料
+
+   宾语从句：I know that EVs can save costs of fuels for us.
+
+   同位语从句：I have heard many stories that EVs have saved costs of fuels for us.
 
 2. 用 whether/why 引导（根据意思判断是否为同位语从句）
 
-   There is a question why we are going to this school. （同位语从句）
+   There is a question why we are going to this school. （同位语从句）有一个问题，问题的内容是你为什么去这所学校。
 
-   There is a question why you get confused. （定语从句 why = for which）
+   There is a question why you get confused. （定语从句 why = for which）有一个问题，正是因为这个问题使你困惑。（至于问题内容是什么，并不知道）
 
 3. way 特殊句型
 
@@ -41,6 +47,10 @@ I like this idea that lets me play soccer.
    The thought came to her that maybe she had left the door open when she left home.
 
    came to her 是插入语，修饰 thought，that 是 thought 的同位语信号词，而不是 her 的
+
+   插入语换成 形容词 is good，也要能识别出形容词没有从句，that 修饰前面的名词 thought
+
+   插入语换成 不及物动词 happend，也要能识别出不及物动词没有宾语，不可能是宾语从句，that 修饰前面的名词 thought
 
 ## 作文好句
 
@@ -98,6 +108,8 @@ I like this idea that lets me play soccer.
 
    boon n. 有益的事、好处
 
+   scale - n. 鳞；片状皮屑；天平、称；度量系统、刻度、比例；规模、范围、等级；音阶；进制 v. 去除鳞片；（皮肤）脱屑；称出（具体的重量）；爬上或翻越；按比例缩放
+
    e.g. One of the great boons of playing computer games is that students indeed are able to have some fun for a while. And at the end of the scale, one of the great downsides is how addictive they can be.
 
 ## 题目
@@ -110,11 +122,11 @@ Some people feel that the legal age at which people can marry should be at least
 
 第一句：
 
-The inescapable pairing of good and bad marriage consequences from different age groups helps to account for why so many issues stir debate in our society.
-
 Many books and articles have been written to untangle the many possible threads that lead to the various results of marriage, and often these books become best sellers, indicating that the subject of marriage and legal marriage age is important to many.
 
 Some views from various people illustrate the extreme polarities in positions that people often take when it comes to the topic of marriage or legal marriage age.
+
+The inescapable pairing of good and bad marriage consequences from different age groups helps to account for why so many issues stir debate in our society.
 
 第二句：
 
@@ -122,13 +134,15 @@ One of the great boons of the leagal marriage over 21 is that people could gain 
 
 低于 21 不好
 
-I feel that the legal age at which people can marry should be at least 21. Also/furthermore, the legal marriage age of under 21 is the opposite of everything that our modern society stands for. The usual idea/preference of getting married under 21 for someone has been torn up for most of the members in our society, including me.
+I feel that the legal age at which people can marry should be at least 21. Also/Furthermore/What's more, the legal marriage age of under 21 is the opposite of everything that our modern society stands for. The usual idea/preference of getting married under 21 for someone has been torn up for most of the members in our society, including me.
 
 经验不足，耽误学习
 
 However, there is a wealth of evidence from all kinds of research in many countries that if the legal marriage age is set under 21, many young people's academic career would be negatively affected and some new marriages could be damaged due to young people's lack of marital experience.
 
 marital adj. 婚姻的
+
+不推荐用这两个词，因为考场上可能不好表达。abortion n. 堕胎（主动）miscarriage n. 流产（意外、被动）
 
 第二段：低于 21 的坏处：经验不足，耽误学习
 

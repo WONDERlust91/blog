@@ -1894,6 +1894,42 @@ pinned: true
 
   empire n. 帝国
 
+- ascribe v. 归因于 = attribute 用法也与attribute 一样 ascribe sth. to sth.
+
+  ascription n. 归因 an ascription of sth.
+
+  conscript v. 征召、征募（常用被动） n. 应征入伍者
+
+  consctiption n. 征兵、募兵
+
+  describe v. 描述；绘制（几何图形）
+
+  description n. 描述；一个种类 = sort/type/kind
+
+  inscribe v. 题字、铭刻；（几何）内接（画一个图形在另一图形内，边重合但不相交）
+
+  inscription n. 题词、铭文、碑文
+
+  prescribe v. 开处方
+
+  prescription n. 处方；（权威提出的）建议；（法律上）时效取得制度
+
+  proscribe v. 禁止（尤指被法律禁止）
+
+  proscription n. 禁令
+
+  subscribe v. 订阅、订购；同意（一个想法或提案）；（正式）签署（文件）
+
+  subscription n. 订阅；（正式）签名、签字
+
+  superscript adj. 上标的 n. 上标
+
+  subscript adj. 下标的 n. 下标
+
+  transcribe v. 转录（将想法或讲话转为书写或打印的形式）
+
+  transcript/transcription n. 抄本、文字记录、字幕
+
 ## Synonyms
 
 - 表“转折”，需要注意词性区别

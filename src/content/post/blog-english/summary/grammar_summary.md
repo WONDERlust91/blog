@@ -6,45 +6,483 @@ tags: [english, summary]
 pinned: true
 ---
 
-## 词性
+## 语意
+
+| 语意 | 作用                             |
+| ---- | -------------------------------- |
+| 主语 | 主角                             |
+| 谓语 | 关系                             |
+| 宾语 | 配角                             |
+| 定语 | 修饰 名词（主语/宾语）、完整句子 |
+| 状语 | 修饰 动词（如何产生的关系）      |
+
+## 词
+
+### 词性
+
+中文不注重词性，因此导致中国人学英语只关注意思而不关注词性，靠“脑补”猜句子意思，这是造成看得懂单词但读不懂意思的最核心原因。因此记单词时，最重要的是记词性。
 
 ### 名词
 
-- 可数：不要单写，要加上冠词或代词`a n.`/`the n. 定语`
-- 不可数
+常作为主语/宾语（名词在句首，一般是主语）
 
-名词在句首，一般是主语
+- 可数名词：不要单写，要加上冠词或代词 `a n.` / `the n. 定语`
+- 不可数名词
 
-### 动词（谓语）
+区分可数、不可数不是靠死记硬背，概念上无法分割的就大概率不可数。
 
-- 及物动词 vt. 必需加宾语
+动词 + ing 作动名词时，就有了名词的性质
 
-- 不及物动词 vi. 不能加宾语，所以也没有被动。但是有些不及物动词加上介词短语后，整体视为及物动词。（如 look at/agree with）
+#### 可数名词复数规则
 
-- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow） = be 动词
+1. 一般直接加 s
+2. 大部分 -s/-x/-ch/-sh 结尾的加 es
+3. 辅音字母 + o 结尾的，且有生命的加 es (potatoes/tomatoes/heroes)，没生命的直接加 s (photos/pianos/radios)
+4. 辅音字母 + y 结尾的，y 变 i 加 es
+5. -f/-fe 结尾的，去掉 -f/-fe 加 -ves
+6. 其他不规则变化或单复同形的遇到积累即可
+   - 不规则变化：
+     - this -> these
+       that -> those
+     - man -> men
+       woman -> women
+     - child -> children
+     - foot -> feet
+       tooth -> teeth
+     - mouse -> mice
+     - fungus -> fungi
+       cactus -> cacti
+       stimulus -> stimuli
+       syllabus -> syllabi
+       alumnus -> alumni
+     - analysis -> analyses
+       crisis -> crises
+       basis -> bases
+       thesis -> theses
+       diagnosis -> diagnoses
+     - phenomenon -> phenomena
+       criterion -> criteria
+     - bacterium -> bacteria
+       datum -> data
+   - 单复同形：
+     - 动物类：
+       sheep
+       deer
+       species
+     - 国籍类
+       Chinese等ese结尾的
+     - craft及craft结尾的
+     - 量词前有具体数字时
+       two dozen
+       eight thousand
 
-  注意 感官动词/系动词/be 动词 后面加 adj.或 n.
+### 代词
 
-  there becomes n.
+代词和名词很相似，都是在主语或宾语位置
 
-  it seems funny.
+宾格：本质就是代词在宾语位置时的形式
 
-  it seems that 句子.
+- I like he. 错误 he 在宾语位置应该用宾语形式 him
 
-> 常见不及物动词
->
-> 发生：happen/occur/take place/come about/arise
-> 增长：rise
+阅读时，**任何代词都需要去上文中找代替的是谁**，例如单数不会代替复数，否则会造成错误“脑补”猜句子意思的问题
+
+1. 错误：If a student wants to pass, they must study hard.
+
+   正确：If a student wants to pass, he or she must study hard.
+
+2. 错误：Every company has their own culture.
+
+   正确：Every company has its own culture.
+
+this/that/it 单独作为主语，通常代替上一句话
+
+these/those 单独作为主语，通常指代人
+
+#### 人称代词、物主代词、反身代词
+
+| 人称 | 主格（做主语） | 宾格（做宾语） | 形容词性物主代词(后必接名词) | 名词性物主代词(后面不接名词) | 反身代词(自身) |
+| ---- | -------------- | -------------- | ---------------------------- | ---------------------------- | -------------- |
+| 我   | I              | me             | my (bike)                    | mine (=my bike)              | myself         |
+| 你   | you            | you            | your                         | yours                        | yourself       |
+| 他   | he             | him            | his                          | his                          | himself        |
+| 她   | she            | her            | her                          | hers                         | herself        |
+| 它   | it             | it             | its                          | its                          | itself         |
+| 我们 | we             | us             | our                          | ours                         | ourselves      |
+| 你们 | you            | you            | your                         | yours                        | yourselves     |
+| 他们 | they           | them           | their                        | theirs                       | themselves     |
+
+#### 指示代词
+
+单数：this（常用于近处或刚刚发生的事）/that（常用于远处或已经过去的事）
+
+复数：these/those
+
+#### 不定代词
+
+复合不定代词：some-/any-/no-/every- 前缀与 -body/-one/-thing 后缀组合而成的代词（someone/anything/nobody）
+
+1. 谓语动词一律第三人称单数 everybody is
+2. 形容词必需后置 something interesting
+
+Both 与 All：both 表示 两者都；all 表示 三者或三者以上都
+
+Either 与 Neither：either 两者中任一个，谓语单数；neither 两者都不，谓语单数
+
+Each 与 Every：each 侧重个体，可单独作主语；every 侧重整体，只能用作形容词修饰名词
+
+Many/Few（修饰可数名词） 与 Much/Little（修饰不可数名词）：few/little 表示否定（几乎没有）a few/a little 表示肯定（有一点）
+
+#### 疑问代词与关系代词
+
+who（主格），whom（宾格），whose（物主），what，which
+
+疑问代词：引导疑问句
+关系代词：引导从句
 
 ### 形容词
 
-- adj. 修饰名词，大部分是前置，偶有后置的情况，要注意找前面的名词。
+1. adj. 修饰名词，大部分是前置，偶有后置的情况（系动词后 be happy/looks new 或 不定代词后 something different），要注意找前面的名词。
+
+2. 多个形容词的顺序：数量 -> 主观意见 -> 大小 -> 年龄/新旧 -> 形状 -> 颜色 -> 产地/国籍 -> 材料 -> 用途 -> 名词
+
+   A beautiful large old Chinese wooden table.
+
+   平时记住核心顺序：主观、大小、颜色、材料 + 名词
+
+3. 比较级和最高级
+
+   英文中只有形容词和副词有比较级和最高级
+
+   形容词的比较级和最高级整体的词性是形容词，副词的比较级和最高级整体的词性是副词，不要因为长而混淆词性
+
+   You are (better than your friend). 括号中整体当作形容词词性
+
+   more/less 在比较级中，词性是副词，用来修饰形容词或副词；than 在比较级中是介词，其他情况下有小概率是连词
+
+   | 级别                 | 短单词规则（单/双音节）                               | 长单词规则（三个音节及以上）          |
+   | -------------------- | ----------------------------------------------------- | ------------------------------------- |
+   | 原级（无比较）       | tall / happy                                          | beautiful / expensive                 |
+   | 比较级（两者相比）   | 词尾加 -er 即 taller / happier (than)                 | 前面加 more 即 more beautiful (than)  |
+   | 最高级（三者及以上） | 前面加 the，词尾加 -est 即 the tallest / the happiest | 前面加 the most 即 the most beautiful |
+
+   不规则变化
+   - good/well(adj./adv.两个词性) -> better -> the best
+   - bad/ill -> worse -> the worst
+   - many/much -> more -> the most
+   - little -> less -> the least
+   - far -> farther -> the farthest 远（物理上）
+     far -> further -> the furthest 更进一步（抽象意义上）
+   - old -> older -> the oldest 老、旧（时间上）
+     old -> elder -> the eldest 年长（只用于家人，且不与than一起用，单纯作形容词）
+   - late -> later -> the latest 晚（时间上）
+     late -> latter -> the last 后（顺序上）
+
+4. 动词加 -ed 或 -ing 后缀变成的形容词
+
+   - -ed 结尾：形容人的主观感受
+     - I am bored.
+     - She is interested in art.
+   - -ing 结尾：形容事物特征
+     - This movie is boring.
+     - Art is interesting.
+
+### 动词
+
+作谓语，表达主语和宾语的关系
+
+1. 及物，不及物
+
+   - 及物动词 vt. 必需加宾语
+
+     例如 locate vt. 确定位置 I want to locate my phone.
+
+     并不是中文常说的“位于”的意思，被动用法才可以被翻译为“位于” My phone is located at my school.
+
+   - 不及物动词 vi. 不能加宾语，所以也没有被动
+
+     但是有些不及物动词加上介词短语后，整体视为及物动词。（如 look at/agree with/fit in）
+
+     > 常见不及物动词
+     >
+     > 发生：happen/occur/take place/come about/arise
+     > 增长：rise
+     > 变化：vary
+     > 屈服：yield（意思为生产时，是及物动词）
+     > 重要：matter（sth. matters）
+     > 起作用：function
+     > 提供物资：cater
+     > 消失：vanish/disappear
+     > 下降：descend
+     > 上升：ascend
+
+2. 时态
+
+   时态只有动词有，本质不是语法规则，是意思的表达。
+
+   不要记某些词+某个时态的绑定关系，例如 already 并不是只有完成时才能用，always 也并不只用于一般现在时
+
+   完成时本质是一种隐含结果的表达，除了动作本身还表达了一定的影响。对完成时理解时脑子中要有个时间轴。
+
+   英语共16个时态，由4种时间（现在、过去、将来、过去将来）和4种状态（一般、进行、完成、完成进行）交叉组合而成。
+
+   日常只需要记得8个核心时态。
+
+   1. 一般现在时：注意，主语是第三人称单数时，动词后加 -s 或 -es
+
+      用法：用于客观真理、经常或习惯性动作
+
+      例句：The sun rises in the east.
+
+      一般现在时最大的坑点：记得只用在客观存在的、必然发生的事上，但凡是不一定的，如某种不是必然的观点的表达，不要用一般现在时，用情态动词。
+
+      AI helps us do many things. AI 可能帮倒忙，因此不是一定发生的事，所以尽量用情态动词。AI could help us do many things.
+
+   2. 一般过去时：动词过去式（-ed后缀或不规则变形）
+
+      用法：在过去某个时间点发生的动作，与现在无关
+
+      例句：I saw a movie yesterday
+
+   3. 一般将来时：will + 动词原形（do）/ be going to + 动词原形（do）
+
+      用法：打算、计划在未来发生的动作。 will 表示大概率会做，be going to 仅可能去做，有可能不做
+
+      例句：We will move to New York next month.
+
+   4. 现在进行时：be + 现在分词（doing）
+
+      用法：此时正在发生的动作，可能延续到将来
+
+      例句：I am studying English grammar now.
+
+   5. 现在完成时：have/has + 过去分词（done）
+
+      用法：过去发生的动作，对现在造成了影响
+
+      例句：I have lost my keys. 我把钥匙丢了。影响：现在进不了门。
+
+   6. 过去进行时：was/were + 现在分词（doing）
+
+      用法：过去某个时刻，正在进行的动作
+
+      例句：This time yesterday, I was sleeping.
+
+   7. 过去完成时：had + 过去分词（done）
+
+      用法：更远的过去发生的动作，对更近的过去造成了影响
+
+      例句：When I arrived, the train had already left.
+
+   8. 过去将来时：would + 动词原形（do）或 was/were going to + 动词原形（do）
+
+      用法：在过去的某时间点，计划当时的未来发生的动作
+
+      例句：She said she would help me.
+
+   现在完成进行时：过去发生的动作，直到现在还在发生，甚至可能延续到未来
+
+   过去完成进行时：更远的过去发生的动作，直到更近的过去还在发生，但不会延续到现在
+
+3. 语态
+
+   分为主动与被动，普通句子绝大多数是主动语态。
+
+   被动语态：be + 过去分词（done）
+
+   被动主态本质还是谓语，和非谓语动词注意区分。
+
+   只有及物动词才有被动语态，因为不及物动词没有宾语。
+
+4. 情态动词
+
+   情态动词 + 动词原形（do）合在一起充当谓语
+
+   might may could would can will 表可能，可能性从左至右，由低到高；也表能力；表示请求（礼貌）
+
+   should 应该（隐含现在还没做）
+
+   ought to 应该（更正式些）
+
+   must 命令
+
+   need 既能当情态动词 need do 也能当普通及物动词 need sth. 或 sth. is needed
+
+5. Be 动词 = 系动词（seem/become/stay/grow/prove） = 感官动词（look/sound/taste/smell/feel）
+
+   Be 动词/系动词/感官动词，后面能加的词性，共5种用法：
+
+   1. adj.
+
+      例句：You are smart. You become important. It seems funny.
+
+   2. n.
+
+      例句：I love you. You become a student. There becomes n.
+
+      A is B. Be 动词相当于等号
+
+      注意最常犯的错是：A和B不是同一性质的东西，没法划等号
+
+      You are a person. 正确。人和 person 可以划等号
+
+      The lack of some resources is some people. 语法上正确，但意思说不通。资源缺乏不能和 people 划等号
+
+   3. 介词短语
+
+      例句：I am in school. You look in shock.
+
+   4. doing
+
+      例句：You appear playing soccer.
+
+   5. done
+
+      例句：You felt beaten.
+
+   it seems that 句子.
+
+6. 动词不定式
+
+   本质是在谓语中，只能有一个动词，两个动词放在一起时中间加 to。人们常说不定式表目的，但本质是两个动词有先后顺序，一个动作之后才有另一个动作。核心动作是 to 后面的动词。
+
+   例句：You read this book to learn sth.
+
+### 副词
+
+adv.修饰动词、形容词、介词、副词，作状语
+
+英文中只有形容词和副词有比较级
+
+形容词的比较级和最高级整体的词性是形容词，副词的比较级和最高级整体的词性是副词，不要因为长而混淆词性
+
+You walk (more quickly than your friend). 括号中整体为副词词性
+
+more/less 在比较级中，词性是副词，用来修饰形容词或副词；than 在比较级中是介词，其他情况下有小概率是连词
+
+一些与形容词同形的短副词（单音节副词）
+
+- fast -> faster -> tastest
+- hard -> harder -> hardest
+- early - earlier -> earliest
+
+副词最高级前的 the 可省略，形容词绝对不能省略
+
+You sing best in our class. 书面标准写法 best 前要加 the，但非正式写作可以省略
+
+### 介词
+
+介词后跟名词、动名词（即介词 + 宾语）
+
+作用有且仅有2个：
+
+1. 作定语，修饰名词，整个介词短语的词性为 adj.
+2. 作状语，修饰动词，整个介词短语的词性为 adv.（修饰动词、句子较多，较少情况修饰形容词及介词短语）
+
+介词翻译不可拿中文意思硬套，需要按上下文，使用介词本质意思理解翻译
+
+`I can play soccer in my school` in my school 绝对不可能是定语，不会是用来修饰 soccer 的，因为 soccer 是足球这项运动，而不是圆圆的球本身，英文的意思说不通，不要被中文意思误导。所以 in my school 是状语，修饰 play
+
+`I like this person with disabilities` with disabilities 绝不可能作状语，无法带着残疾地喜欢，意思不通。所以 with disabilities 是定语，修饰 person
+
+两种可能性都有的情况：
+
+1. 修饰名词：`I can play ball in my school` 定语，我可以玩学校的球
+2. 修饰动词：`I can play ball in my school` 状语，我可以在学校玩球
+
+两种情况需要在语境中根据上下文具体分析，常见修饰动词的介词短语有 by doing。
+
+复合介词，具有两个介词的意思，主要以在后面的介词为主，例如 onto/into 分别具有 on 和 in 的意思，但主要是 to
+
+- in 在...范围里，可以是实际的范围，也可以是抽象的范围
+
+- against 本质是互相接触有作用力的状态，所以会有看似相反的翻译。如针对、对抗；贴着、靠着
+
+- by
+
+  - 被动语态：翻译为“被” by + n.
+
+  - 时间: 翻译为“到”，到某个具体的时间点 by time
+
+  - 动词、动名词：翻译为“通过” by doing
+
+  - 上升、减少：翻译为 “了”，数学上的 上升或减少 “了” 某个具体数量
+
+- on
+
+  - 在...上
+
+  - 抽象意义中有笼罩在...上的意思，翻译为“关于”即可，如 effect on/a study on
+
+- up
+
+  - 向上
+
+  - v. + up 大部分（除需要特殊记忆的固定搭配外）可以理解为把这个动词的动作做起来、开始做或做完成，如 clean up
+
+- to
+
+  1. 介词词性：to/toward/towards + n./doing 表示一种指向性，相当于一个箭头（注意与不定式完全无关）
+
+     approach to playing soccer 踢足球“的”方法
+
+  2. 动词不定式：ability to do sth.
+
+     I like to do this. 不定式表要做，实际还没做
+     I like doing sth. 动名词仅表示动作，做没做并不知道
+
+     be to do 表将来、表计划 = want/be going to/will；表命令 = must
+
+- at 在...的点上；如时间、速度、状态、温度、home、级别、数据、point
+
+- for
+
+  - 介词：为了(本质就是原因)
+
+  - 连词：因为，后面加句子，等同于 because
+
+- with 和、用
+
+- of 对于、强调属性。A book in history 历史上的一本书，A book of history 一本关于历史的书
+
+  - A of B 介词短语：核心词永远是 A，如 a book of history，核心词是 book，除非 A 是量词时，B 为核心词，如 a lot of books 核心词是 books
+
+    a number of n. 重点为后面的名词，翻译为许多 X
+
+    the number of n. 重点为 number，翻译为 X 的数量
+
+  - be of n. (抽象名词) = be adj. (抽象名词对应的形容词) 表示具有某种特性 be of importance = be important
+
+- over
+
+  - 后面加数字，表示超过
+
+  - 后面加抽象名词 over=to/of/about，可译为对于
+
+- around 遍布；动词 + around 可译为 X 来 X 去
+
+- across 遍布
+
+- about
+
+  - 关于
+
+  - 后跟数字有关的词译为大约
+
+- between 常见 between A and B；也有 between + 复数
 
 ### 连词
 
-- 普通连词：形如`句子, and 句子`，连词用于并列两句话：如 and or but so，而 however thus therefore furthermore 都是副词，不可用于逗号后并列两句话。
+- 大连词：五个词，前四个较常见，and or but so yet。可以并列任何词性，甚至用于并列两句话，`句子, and 句子`，而 however thus therefore furthermore 都是副词，不可用于逗号后并列两句话。
 
-- 关系连词（非问句，问句中叫关系副词）：when/if/who/how/although/albeit/though/while/yet
+  I like this book but don't like that book. but 并列两个动词
+
+  I like this book but not that book. but 并列两个名词
+
+  有一种例外，副词会承担连词的作用，连接副词 + adj./adv., + 主句. 如：However rich he is, he never wastes money. However在这里依然是adv. 因为它修饰adj. 但它有连词的作用，连接两个句子，相当于 no matter how
+
+- 关系连词（非问句，问句中叫关系副词）：when/where/how/who/why/since/if/although/though/while/yet/albeit
+
+  关系连词不能单独引导句子，是用来引导从句的，所以关系连词 + 从句后，一定要再 + 完整句子。
 
 - 时间概念的词，可以做时间关系连词，跟 when 的作用相同，后面可跟完整句子，整体做主句的状语或解释说明
 
@@ -54,7 +492,7 @@ pinned: true
 
   I finished my homework **(in) the day** you came to our school.
 
-1. however 和 but 不可互换，but 是连词，连接两个句子，however 是副词，后面不能跟完整句子
+1. however 和 but 不可互换，but 是连词，连接两个句子，however 是副词，只能用在单句中，不能连接两句。
 
 2. but 和 although/though/while 都是连词表转折，但重点不同
 
@@ -64,67 +502,29 @@ pinned: true
 
 3. A, although B. = Although B, A.
 
-### 介词
-
-介词后跟名词、动名词，作用是作为 adj.（修饰名词） 或 adv.（修饰动词、句子、较少情况修饰形容词及介词短语）
-
-介词翻译不可拿中文意思硬套，需要按上下文，使用介词本质意思理解翻译
-
-介词短语的作用：
-
-1. 修饰名词：`I can play soccer in my school` 定语，我可以玩学校的足球
-2. 修饰动词：`I can play soccer in my school` 状语，我可以在学校玩足球
-
-两种情况需要在语境中根据上下文具体分析，常见修饰动词的介词短语有 by doing。
-
-复合介词，具有两个介词的意思，主要以在后面的介词为主，例如 onto/into 分别具有 on 和 in 的意思，但主要是 to
-
-- in 在...范围里；可以是实际的范围，也可以是抽象的范围
-
-- on 在...上；抽象意义中有笼罩在...上的意思，如 effect on/a study on
-
-- at 在...的点上；如时间、速度、状态、温度、home、级别、数据、point
-
-- for 介词：为了(本质就是原因)；连词：因为，后面加句子，等同于 because
-
-- to/toward 表示一种指向性，相当于一个箭头（注意与不定式完全无关）
-
-- by 通过
-
-- with 和、用
-
-- of 对于、强调属性。A book in history 历史上的一本书，A book of history 一本关于历史的书
-
-- over 后面加数字，表示超过；后面加抽象名词 over=to/of/about，可译为对于
-
-- around 遍布；动词+around 可译为 X 来 X 去
-
-- across 遍布
-
-- against 针对
-
-- about 关于；后跟数字有关的词译为大约
-
-- between 常见 between A and B；也有 between + 复数
-
-### 副词
-
-adv.修饰动词、形容词、副词
-
 ### 冠词
 
-- a 一个、泛指
-- the 特指，翻译为这个，必需要理解到底是哪一个，可以换为代词
+冠词 + n.
 
-### 代词
+1. 冠词后如果只是个形容词，把整体当个名词看待，表示具有形容词特征的名词，不要只理解为一类人，还有其他可能，不一定指人。
+2. 冠词和名词间无论加了多少形容词修饰，都要记得后面主体是那个名词。
 
-任何代词都需要理解指代的为何物
+- a/an 一个、泛指
+  - 可数名词一定不要单写，考虑冠词或复数
 
-- this/it 作为主语，通常代指上一句话
+- the 特指，翻译为这个，可以换为代词 this，必需要理解到底是哪一个，因此一定要有上下文或定语。
+  1. 上下文：I like my school. The school is good.
+  2. 定语：The book on my table is good.
+  3. 独一无二的东西或机构名：the world, the United Nations
+  4. 乐器前加 the：the piano
+  5. 最高级前加 the：the best
+  6. 序数词前加 the：the first, the second
 
-### 量词
+### 量词/数词
 
-a n. of 可当作一堆理解，如 a sea of 一海的，表示大量
+a n. of 大概率是量词，可当作一堆理解，如 a sea of 一海的，表示大量
+
+A of B 介词短语：核心词永远是 A，如 a book of history，核心词是 book，除非 A 是量词时，B 为核心词，如 a lot of books 核心词是 books
 
 a number of n. 重点为后面的名词，翻译为许多 X
 the number of n. 重点为 number，翻译为 X 的数量
@@ -153,7 +553,7 @@ the number of n. 重点为 number，翻译为 X 的数量
 分母：序数词
 如果分子大于 1，需要在分母后面加 s
 
-## 句型
+## 句
 
 ### 主谓宾
 
@@ -879,9 +1279,9 @@ Among countless functions of music, it is music that can connect various people.
    例句：
    1. 电动车可以保护环境
 
-      EVs can help improve our environment.
+      EVs can help improve/ameliorate our environment.
 
-      Among many kinds vehicles, it is EVs that can help improve our environment.
+      Among many kinds vehicles, it is EVs that can help improve/ameliorate our environment.
 
    2. There are countless useful books in our library.
 
