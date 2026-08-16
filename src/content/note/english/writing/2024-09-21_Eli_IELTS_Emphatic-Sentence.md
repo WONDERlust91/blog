@@ -32,7 +32,7 @@ Among countless functions of music, it is music that can connect various people.
 
    - 强调介词短语
 
-     强调后：It is 介词短语/(连词 + 分句) that 主句
+     强调后：It is 介词短语 that 主句
 
      It is in my school that I want to learn things.
 

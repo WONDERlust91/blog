@@ -16,6 +16,8 @@ pinned: true
 | 定语 | 修饰 名词（主语/宾语）、完整句子 |
 | 状语 | 修饰 动词（如何产生的关系）      |
 
+定语的种类：形容词、介词短语、非谓语动词、定语从句、同位语、动词不定式
+
 ## 词
 
 ### 词性
@@ -32,6 +34,8 @@ pinned: true
 区分可数、不可数不是靠死记硬背，概念上无法分割的就大概率不可数。
 
 动词 + ing 作动名词时，就有了名词的性质
+
+what/how/where + to do 整体当作名词看待，如 I know what to do. 整个 what to do 视为名词
 
 #### 可数名词复数规则
 
@@ -190,162 +194,162 @@ who（主格），whom（宾格），whose（物主），what，which
 
 作谓语，表达主语和宾语的关系
 
-1. 及物，不及物
+#### 及物，不及物
 
-   - 及物动词 vt. 必需加宾语
+- 及物动词 vt. 必需加宾语
 
-     例如 locate vt. 确定位置 I want to locate my phone.
+  例如 locate vt. 确定位置 I want to locate my phone.
 
-     并不是中文常说的“位于”的意思，被动用法才可以被翻译为“位于” My phone is located at my school.
+  并不是中文常说的“位于”的意思，被动用法才可以被翻译为“位于” My phone is located at my school.
 
-   - 不及物动词 vi. 不能加宾语，所以也没有被动
+- 不及物动词 vi. 不能加宾语，所以也没有被动
 
-     但是有些不及物动词加上介词短语后，整体视为及物动词。（如 look at/agree with/fit in）
+  但是有些不及物动词加上介词短语后，整体视为及物动词。（如 look at/agree with/fit in）
 
-     > 常见不及物动词
-     >
-     > 发生：happen/occur/take place/come about/arise
-     > 增长：rise
-     > 变化：vary
-     > 屈服：yield（意思为生产时，是及物动词）
-     > 重要：matter（sth. matters）
-     > 起作用：function
-     > 提供物资：cater
-     > 消失：vanish/disappear
-     > 下降：descend
-     > 上升：ascend
+  > 常见不及物动词
+  >
+  > 发生：happen/occur/take place/come about/arise
+  > 增长：rise
+  > 变化：vary
+  > 屈服：yield（意思为生产时，是及物动词）
+  > 重要：matter（sth. matters）
+  > 起作用：function
+  > 提供物资：cater
+  > 消失：vanish/disappear
+  > 下降：descend
+  > 上升：ascend
 
-2. 时态
+#### 时态
 
-   时态只有动词有，本质不是语法规则，是意思的表达。
+时态只有动词有，本质不是语法规则，是意思的表达。
 
-   不要记某些词+某个时态的绑定关系，例如 already 并不是只有完成时才能用，always 也并不只用于一般现在时
+不要记某些词+某个时态的绑定关系，例如 already 并不是只有完成时才能用，always 也并不只用于一般现在时
 
-   完成时本质是一种隐含结果的表达，除了动作本身还表达了一定的影响。对完成时理解时脑子中要有个时间轴。
+完成时本质是一种隐含结果的表达，除了动作本身还表达了一定的影响。对完成时理解时脑子中要有个时间轴。
 
-   英语共16个时态，由4种时间（现在、过去、将来、过去将来）和4种状态（一般、进行、完成、完成进行）交叉组合而成。
+英语共16个时态，由4种时间（现在、过去、将来、过去将来）和4种状态（一般、进行、完成、完成进行）交叉组合而成。
 
-   日常只需要记得8个核心时态。
+日常只需要记得8个核心时态。
 
-   1. 一般现在时：注意，主语是第三人称单数时，动词后加 -s 或 -es
+1. 一般现在时：注意，主语是第三人称单数时，动词后加 -s 或 -es
 
-      用法：用于客观真理、经常或习惯性动作
+   用法：用于客观真理、经常或习惯性动作
 
-      例句：The sun rises in the east.
+   例句：The sun rises in the east.
 
-      一般现在时最大的坑点：记得只用在客观存在的、必然发生的事上，但凡是不一定的，如某种不是必然的观点的表达，不要用一般现在时，用情态动词。
+   一般现在时最大的坑点：记得只用在客观存在的、必然发生的事上，但凡是不一定的，如某种不是必然的观点的表达，不要用一般现在时，用情态动词。
 
-      AI helps us do many things. AI 可能帮倒忙，因此不是一定发生的事，所以尽量用情态动词。AI could help us do many things.
+   AI helps us do many things. AI 可能帮倒忙，因此不是一定发生的事，所以尽量用情态动词。AI could help us do many things.
 
-   2. 一般过去时：动词过去式（-ed后缀或不规则变形）
+2. 一般过去时：动词过去式（-ed后缀或不规则变形）
 
-      用法：在过去某个时间点发生的动作，与现在无关
+   用法：在过去某个时间点发生的动作，与现在无关
 
-      例句：I saw a movie yesterday
+   例句：I saw a movie yesterday
 
-   3. 一般将来时：will + 动词原形（do）/ be going to + 动词原形（do）
+3. 一般将来时：will + 动词原形（do）/ be going to + 动词原形（do）
 
-      用法：打算、计划在未来发生的动作。 will 表示大概率会做，be going to 仅可能去做，有可能不做
+   用法：打算、计划在未来发生的动作。 will 表示大概率会做，be going to 仅可能去做，有可能不做
 
-      例句：We will move to New York next month.
+   例句：We will move to New York next month.
 
-   4. 现在进行时：be + 现在分词（doing）
+4. 现在进行时：be + 现在分词（doing）
 
-      用法：此时正在发生的动作，可能延续到将来
+   用法：此时正在发生的动作，可能延续到将来
 
-      例句：I am studying English grammar now.
+   例句：I am studying English grammar now.
 
-   5. 现在完成时：have/has + 过去分词（done）
+5. 现在完成时：have/has + 过去分词（done）
 
-      用法：过去发生的动作，对现在造成了影响
+   用法：过去发生的动作，对现在造成了影响，通常上下文会有语境
 
-      例句：I have lost my keys. 我把钥匙丢了。影响：现在进不了门。
+   例句：I have lost my keys. 我把钥匙丢了。影响：现在进不了门。
 
-   6. 过去进行时：was/were + 现在分词（doing）
+6. 过去进行时：was/were + 现在分词（doing）
 
-      用法：过去某个时刻，正在进行的动作
+   用法：过去某个时刻，正在进行的动作
 
-      例句：This time yesterday, I was sleeping.
+   例句：This time yesterday, I was sleeping.
 
-   7. 过去完成时：had + 过去分词（done）
+7. 过去完成时：had + 过去分词（done）
 
-      用法：更远的过去发生的动作，对更近的过去造成了影响
+   用法：更远的过去发生的动作，对更近的过去造成了影响
 
-      例句：When I arrived, the train had already left.
+   例句：When I arrived, the train had already left.
 
-   8. 过去将来时：would + 动词原形（do）或 was/were going to + 动词原形（do）
+8. 过去将来时：would + 动词原形（do）或 was/were going to + 动词原形（do）
 
-      用法：在过去的某时间点，计划当时的未来发生的动作
+   用法：在过去的某时间点，计划当时的未来发生的动作
 
-      例句：She said she would help me.
+   例句：She said she would help me.
 
-   现在完成进行时：过去发生的动作，直到现在还在发生，甚至可能延续到未来
+现在完成进行时：过去发生的动作，直到现在还在发生，甚至可能延续到未来，完美翻译是“一直”
 
-   过去完成进行时：更远的过去发生的动作，直到更近的过去还在发生，但不会延续到现在
+过去完成进行时：更远的过去发生的动作，直到更近的过去还在发生，但不会延续到现在
 
-3. 语态
+#### 语态
 
-   分为主动与被动，普通句子绝大多数是主动语态。
+分为主动与被动，普通句子绝大多数是主动语态。
 
-   被动语态：be + 过去分词（done）
+被动语态：be + 过去分词（done）
 
-   被动主态本质还是谓语，和非谓语动词注意区分。
+被动主态本质还是谓语，和非谓语动词注意区分。
 
-   只有及物动词才有被动语态，因为不及物动词没有宾语。
+只有及物动词才有被动语态，因为不及物动词没有宾语。
 
-4. 情态动词
+#### 情态动词
 
-   情态动词 + 动词原形（do）合在一起充当谓语
+情态动词 + 动词原形（do）合在一起充当谓语
 
-   might may could would can will 表可能，可能性从左至右，由低到高；也表能力；表示请求（礼貌）
+might may could would can will 表可能，可能性从左至右，由低到高；也表能力；表示请求（礼貌）
 
-   should 应该（隐含现在还没做）
+should 应该（隐含现在还没做）
 
-   ought to 应该（更正式些）
+ought to 应该（更正式些）
 
-   must 命令
+must 命令
 
-   need 既能当情态动词 need do 也能当普通及物动词 need sth. 或 sth. is needed
+need 既能当情态动词 need do 也能当普通及物动词 need sth. 或 sth. is needed
 
-5. Be 动词 = 系动词（seem/become/stay/grow/prove） = 感官动词（look/sound/taste/smell/feel）
+#### Be 动词 = 系动词（seem/become/stay/grow/prove） = 感官动词（look/sound/taste/smell/feel）
 
-   Be 动词/系动词/感官动词，后面能加的词性，共5种用法：
+Be 动词/系动词/感官动词，后面能加的词性，共5种用法：
 
-   1. adj.
+1. adj.
 
-      例句：You are smart. You become important. It seems funny.
+   例句：You are smart. You become important. It seems funny.
 
-   2. n.
+2. n.
 
-      例句：I love you. You become a student. There becomes n.
+   例句：I love you. You become a student. There becomes n.
 
-      A is B. Be 动词相当于等号
+   A is B. Be 动词相当于等号
 
-      注意最常犯的错是：A和B不是同一性质的东西，没法划等号
+   注意最常犯的错是：A和B不是同一性质的东西，没法划等号
 
-      You are a person. 正确。人和 person 可以划等号
+   You are a person. 正确。人和 person 可以划等号
 
-      The lack of some resources is some people. 语法上正确，但意思说不通。资源缺乏不能和 people 划等号
+   The lack of some resources is some people. 语法上正确，但意思说不通。资源缺乏不能和 people 划等号
 
-   3. 介词短语
+3. 介词短语
 
-      例句：I am in school. You look in shock.
+   例句：I am in school. You look in shock.
 
-   4. doing
+4. doing
 
-      例句：You appear playing soccer.
+   例句：You appear playing soccer.
 
-   5. done
+5. done
 
-      例句：You felt beaten.
+   例句：You felt beaten.
 
-   it seems that 句子.
+it seems that 句子.
 
-6. 动词不定式
+#### 动词不定式
 
-   本质是在谓语中，只能有一个动词，两个动词放在一起时中间加 to。人们常说不定式表目的，但本质是两个动词有先后顺序，一个动作之后才有另一个动作。核心动作是 to 后面的动词。
+本质是在谓语中，只能有一个动词，两个动词放在一起时中间加 to。人们常说不定式表目的，但本质是两个动词有先后顺序，一个动作之后才有另一个动作。核心动作是 to 后面的动词。
 
-   例句：You read this book to learn sth.
+例句：You read this book to learn sth.
 
 ### 副词
 
@@ -555,7 +559,9 @@ the number of n. 重点为 number，翻译为 X 的数量
 
 ## 句
 
-### 主谓宾
+### 主谓宾/主谓
+
+所有句子都有主谓宾，从句也是主谓宾
 
 I love you. 主谓宾
 I am happy. 形容词作宾语，要加 be 动词
@@ -568,6 +574,8 @@ I am in school. 介词短语作宾语，要加 be 动词
 - 状语 = adv. 修饰动词、句子、形容词、介词短语（状语修饰前两者较常见，修饰后两者较少见）
 
 ### 主语从句
+
+核心：主语是个句子
 
 #### 思维转换
 
@@ -589,7 +597,18 @@ I am in school. 介词短语作宾语，要加 be 动词
 
 主语本身是个句子，谓语用单数：主语从句 + 谓语（第三人称单数） + 宾语
 
+注意虽然大部分情况下，主句的谓语是第三人称单数，但依然有2种情况是复数：
+
+1. and 连接的两个主语从句，且表达两个独立事件，主句谓语动词为复数
+
+   What he said and what he did are completely different.
+
+2. what 引导的主语从句，且 what 是指代宾语，宾语实际为复数名词时，主句谓语动词用复数
+
+   What the factory needs most are modern machines.
+
 - what/who/how/where/when/whether 引导
+
   1. what who 词性为 n. 做主语或宾语，是从句主体（主谓宾）的一部分
 
      (Who makes you happy) is also a great man. （who 作从句的主语）
@@ -600,7 +619,7 @@ I am in school. 介词短语作宾语，要加 be 动词
 
      注意要将括号中看成整体，判断是否能发出后面的谓语和宾语
 
-     what you eat is apples.
+     what you eat are apples. (谓语复数)
 
      What is the most important thing for you does not hold true for others.
 
@@ -638,308 +657,6 @@ I am in school. 介词短语作宾语，要加 be 动词
 
   That you can come to school tomorrow and you are happy make me happy.
 
-### 宾语从句
-
-写作时，宾语从句 that 不要省略
-阅读中，要小心宾语从句 that 可能省略
-
-I think that that these books are good is interesting. 宾语从句套主语从句，不要省略第一个 that，否则造成误解。
-
-### 状语从句
-
-#### 定义
-
-本质：一个状语从句本身等于一个副词
-
-副词的作用：修饰动词（整个句子，也归于动词类，因为整个句子的核心是动词）、形容词、介词短语（介词短语情况很少见）
-
-因此状语从句也只有这三个功能
-
-#### 规则
-
-只有一个关系连词引导，如果有超过一个连词，那么一定是发生了状语从句的嵌套（英语的本质是套娃）
-
-If/when/where/although/though/while/because/as(= when/while/because)
-
-1. 修饰动词
-   - 关系连词 + 分句，主句（主语 + 谓语 + 宾语）
-
-     等价于
-
-     主句（主语 + 谓语 + 宾语），关系连词 + 分句
-
-     I can beat you, if you are happy. = If you are happy, I can beat you.
-
-   - “关系连词+分句” 修饰 “主句中的谓语”
-
-     When I was in school, I can play soccer.
-
-     I like this game played by him when he is happy. 没有逗号时，状语从句修饰的动词遵循就近原则，因此修饰非谓语动词 played
-
-     I like this game played by him, when I am happy. 有逗号且根据句意，状语从句修饰主句动词：like
-
-   - 当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
-
-     When written, this book is new.
-
-2. 修饰形容词
-
-   There is a book useful and important for me when I am learning sth..
-
-3. 修饰介词（不太常见）
-
-#### 实例
-
-1. While
-   - 分句有进行时，一般是“当”
-   - 没有进行时，一般是“尽管”，等于 although
-
-   Although/Though/While 都是尽管（但是）没有实质区别，注意与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
-
-2. though conj. 尽管、但是（从句与主句转折） adv. 但是、然而（与上一个完整句子转折）
-
-   conj.
-
-   Though he is free, he can't go anywhere.
-
-   = He can't go anywhere, though he is free.
-
-   adv.
-
-   This book is full of number. This book, though, is about history.
-
-   = This book is full of number. This book is about history, though.
-
-3. As
-   - 介词：作为 + n.
-
-     As a student, you should ...
-
-     regard A as B (n./adj.)
-
-     see A as B
-
-     think of A as B
-
-     值得注意的是，as 后还有跟形容词(adj.)的特殊情况。
-
-     I regard you as important.
-
-   - 连词：后接完整句子
-     - 当/随着
-
-     - 因为；例如主句表达一个现象，as 句子
-
-     - 正如；as sb./sth. v. ；通常在句首或当插入语
-
-   - as 的固定搭配
-
-     as yet 副词 至今还
-
-     as of + time 介词 自...起，从...开始
-
-     as for = about 介词
-
-     as to = in terms of 介词
-
-     as if/though = like 仿佛、似乎、就好像（字面翻译：就像如果、就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
-
-   - as ... as 中间可以是任何成分，视句子结构而定。
-
-     翻译：第一个 as 忽略，第二个 as 译为“正如”
-
-     This city is as beautiful as Shanghai.
-     This city grows as beautifully as Shanghai does.
-
-     as ... as 写作易错点：
-
-     错误：You play soccer as beautiful as he dose.
-
-     注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
-
-     正确：You play soccer as beautifully as he dose.
-
-     常见 as ... as 翻译:
-
-     as long as 只要；像...一样远的
-
-     as far as/so far as 至于；像...一样远的
-
-     as well as 和 = and；像...一样好地
-
-     as soon as 尽快；一...就 = the moment
-
-     as early as 早在
-
-     as much as 尽管（仅在句首）；像...一样多的
-
-4. yet
-   - 在句首，词性为 conj.或 adv. = but，表转折，译为“尽管”、“但是”
-
-     yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
-
-     句子 1, yet while 分句, 主句
-
-     等价于
-
-     句子 1, yet 句子 2（句子 2 = while 分句, 主句）
-
-     句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
-
-   - 在肯定句中，词性为 adv. = not，表否定
-
-   - 在否定或疑问句中，词性为 adv. 表示直到现在或某个时间点，译为“还没”
-
-   - yet another = another
-
-     yet further = further
-
-     yet more = more
-
-     yet 表示更加
-
-5. 与其他从句的嵌套
-
-   Although I think that that these books are good is interesting, 主句. （状语从句嵌套宾语从句嵌套 that 引导的主语从句，主句）
-
-### 定语从句
-
-本质就是形容词，用于修饰名词。
-
-- 没有逗号（限定），只修饰名词，that/which 没有区别
-
-  I like this book that is red.
-
-  先行词作宾语，关系代词 that 或 which 可以省略
-
-  I like this book he read.
-
-- 加逗号（非限定），只能用 which，可能修饰的是名词，也可能修饰的是前面整个句子
-
-  I like to read these books, which makes me happy.
-
-  其中 makes 为单数，故 which 不是修饰 books，而是修饰前面整句话
-
-  I like to read these books, which are expensive.
-
-  修饰 books 故用 are
-
-  一种好用的变形：
-
-  I like this book, the pages of which are red.
-
-  There is a school, the students in which are smart.
-
-- 介词 + 定语从句 + 完整句子，不能用 that，带介词的定语从句不会修饰前面整个句子，只修饰名词
-
-  I know a lot of friends among whom there are many doctors.
-  1. 介词本身意思需要理解清楚
-  2. 把 which 替换成修饰词
-  3. where 和 when 引导的定语从句，作状语，可使用介词加 which 替换，后面必需加完整句子
-
-  where 修饰地点，以及抽象的可以用 in 来描述的范围
-
-  I like the atmosphere/situation in your school in which I can learn many things.
-
-  这句中 in which 指代 in the atmosphere，而不是 school。in which 可用 where 代替
-
-  when 修饰时间，在某个时间里面
-
-- 定语从句和状语从句的区别
-
-  定语从句与状语从句在句式上可能完全一样，需要根据上下文判断意思
-
-  I can go to **Shanghai**, where I have many books.
-
-  定语从句，where 修饰 Shanghai。我可以去上海，我在那里有很多书。
-
-  I can **go** to Shanghai, where I have many books.
-
-  状语从句，where 修饰 go。在我有很多书的地方，我才能去上海。
-
-  I like December, when I can play soccer.
-
-  状语从句，只有当我能踢球时，我才喜欢 12 月。
-
-  定语从句，我喜欢 12 月，在 12 月里我可以踢足球。
-
-- 专有名词 + 从句，从句大概率为定语从句
-
-  I liked WTO 20 years ago, which is an organization.
-
-### 非谓语动词
-
-非谓语动词，本质上一般是作定语，例如最常见的英语句型：主语 + 定语（形容词、定语从句、同位语、介词短语、非谓语） + 谓语 + 宾语.
-
-1. 后置非谓语：主语 + 谓语 + 宾语, 非谓语 + 宾语.
-
-   There are many spectators watching the show, meaning/suggesting that Chinese cultures are becoming more and more popular.
-
-   watching the show 非谓语 作 spectators 的定语
-
-   meaning/suggesting that 非谓语 + 宾语从句
-   1. 必须快速反应出只有在这句话已经有了谓语（主谓宾）的情况下，才会出现非谓语
-
-   2. 非谓语动词也是动词，但凡是动词你就要去想谁发出的动词
-      - 没有逗号，动词发出者通常为前面的名词
-
-        I like this book making me happy
-
-        例外：主句谓语是不及物动词，可能由主句主语或整个主句发出。（这种情况较少见）
-
-        This is happening making us happy.
-
-      - 有逗号的，需要根据上下文判断谁发出的动词，可能是前一句的主语、宾语或整个句子。
-
-        My teacher in this school will do a presentation, involving some topics. 宾语 presentation 发出 involving
-
-        My teacher in this school will do a presentation, feeling happy. 主语 teacher 发出 feeling
-
-        My teacher in this school will do a presentation, making us proud. 整个主句发出 making
-
-        I like to use computers, bought by my dad. 宾语
-
-        I like to read books, writing some notes. 主语
-
-        I like this book, making me happy. 宾语
-
-        I like to do exercises, making me happy. 整句
-
-2. 前置非谓语：非谓语(Doing/Done) + 宾语, 主语 + 谓语 + 宾语.
-   1. 前置非谓语通常由主句的主语发出
-
-      Reading this book, my teacher is happy.
-
-   2. 前置非谓语通常分句与主句有顺序关系，分句先发生，主句后发生
-
-      Having scored 99, he is very happy now.
-
-      Looking from a broad perspective, we can see a trend. 整句
-
-3. 句中非谓语：主语, 定语（非谓语）, 谓语 + 宾语.
-
-   这种句型通常只是修饰主语，没有明显顺序关系
-
-   My teacher, almost overwhelmed by her projects, will have some time to do something.
-
-   This player, liked by us, will come to my school today.
-
-4. 非谓语动词不及物时，上面 3 个句型中紧跟着非谓语动词的宾语都不存在，可能是一个状语。
-
-   Quickly happening (when you are at school), this situation is good.
-
-#### 常见错误
-
-1. Using this computer to type words, I am learning this computer.
-
-   语法上没有错误，但表意上缺少逻辑。应该是先学电脑，再来使用。
-
-   改正：Learning this computer, I am using this computer to type words.
-
-2. Learning this culture, there are more chances for us to be happy.
-
-   非谓语也是动词，要找动词的主语，主句中没有主语能够发出 learning 这个动词。
-
 ### 动名词做主语
 
 v.ing/(v.ing + 宾语) + 谓语（**第三人称单数**） + 宾语
@@ -969,73 +686,232 @@ Producing computers from China is interesting.
 
      from China 和 when the economy is good 都是 producing 的状语
 
-### 形式主语
+注意英语句子结构也决定意思：
 
-主语不用翻译
+1. 动名词作主语：Your playing soccer is good. 你踢球这个动作很好。指踢球水平很高。
 
-- It is adj. for sb. to do sth.
+2. 主语从句：That you play soccer is good. 你踢球这件事很好。不一定踢得好。
 
-  注意 adj. 能不能形容这个 to do sth.
+### 非谓语动词
 
-  It is portable for me to use my laptop.
+非谓语动词，本质上一般是作定语，例如最常见的英语句型：主语 + 定语（形容词、定语从句、同位语、介词短语、非谓语） + 谓语 + 宾语.
 
-  这句话是错误的，portable 可以用于形容 laptop 这个东西，但不能用于形容 use my laptop 这个行为。
+主谓宾 已经有谓语了，描述了主要动作，这时候要表达其他次要动作，一句话不能有两个谓语，就需要非谓语动词。
 
-  应改为 It is convenient for me to use my laptop.
+一句话以 Doing 开头，只有两种情况：动名词作主语 或 非谓语动词
 
-  It is exciting for me to play soccer. = Playing soccer makes me excited.
+一句话以 Done 开头，只可能是：非谓语
 
-- It is adj. that + 完整句子.
+1. 后置非谓语：主语 + 谓语 + 宾语, 非谓语 + 宾语.
 
-  It is likely that ... (likely 是 adj.)
+   There are many spectators watching the show, meaning/suggesting that Chinese cultures are becoming more and more popular.
 
-  It is notable that ...
+   watching the show 非谓语 作 spectators 的定语
 
-  It is important that we should read books.
+   meaning/suggesting that 非谓语 + 宾语从句
 
-  It is useful for me that I can read books.
+   1. 必须快速反应出只有在这句话已经有了谓语（主谓宾）的情况下，才会出现非谓语
 
-- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow/remain） = be 动词，因此 It + 感官动词 也大概率是形式主语
+   2. 非谓语动词也是动词，但凡是动词你就要去想谁发出的动词
 
-  It seems/sounds/remains that...
+      - 没有逗号，动词发出者通常为前面的名词
 
-  It seems as if you OK.
+        I like this book making me happy.
 
-  It is believed/said that...
+        I like this book written by her.
 
-- 不是所有 it 开头的句子都是形式主语
+        例外：主句谓语是不及物动词，可能由主句主语或整个主句发出。（这种情况较少见）
 
-  It can make me happy.
+        This is happening making us happy.
 
-### 形式宾语
+      - 有逗号的，需要根据上下文判断谁发出的动词，可能是前一句的主语、宾语或整个句子。
 
-make/leave/render/have A(n.) B(v./adj./prep./n.)
+        I like this school, playing soccer happily. I 发出 playing
 
-- leave + 地点 表示离开某地
+        I like this school, having many classrooms. school 发出 having
 
-  其他情况 leave = make = render 表示留下或使得
+        I like this school, agreed by my mom. 整个句子 发出 被 agreed
 
-  当 A 后面有个很长的定语从句时，可能会把 B 放在 A 前
+        My teacher in this school will do a presentation, involving some topics. 宾语 presentation 发出 involving
 
-  This book leave you happy.
+        My teacher in this school will do a presentation, feeling happy. 主语 teacher 发出 feeling
 
-  This book leave happy you who are from China and playing soccer in your school.
+        My teacher in this school will do a presentation, making us proud. 整个主句发出 making
 
-  I can make you play soccer.
+        I like to use computers, bought by my dad. 宾语
 
-  I can make you important.
+        I like to read books, writing some notes. 主语
 
-  I can make you in school.
+        I like this book, making me happy. 宾语
 
-  I can make you a player.
+        I like to do exercises, making me happy. 整句
 
-  I want to make playing soccer in our nation become more and more popular.
+2. 前置非谓语：非谓语(Doing/Done) + 宾语, 主语 + 谓语 + 宾语.
 
-  I want to make it become more and more popular for us to play soccer in our nation.
+   1. 前置非谓语通常由主句的主语发出
 
-  I want to make it possible for me to do sth.
+      Reading this book, my teacher is happy.
+
+   2. 前置非谓语通常分句与主句有顺序关系，分句先发生，主句后发生
+
+      Having learned English, I can write this sentence.
+
+      Having scored 99, he is very happy now.
+
+      Looking from a broad perspective, we can see a trend. 整句
+
+3. 句中非谓语：主语, 定语（非谓语）, 谓语 + 宾语.
+
+   这种句型通常只是修饰主语，没有明显顺序关系
+
+   My teacher, almost overwhelmed by her projects, will have some time to do something.
+
+   This player, liked by us, will come to my school today.
+
+4. 非谓语动词不及物时，上面 3 个句型中紧跟着非谓语动词的宾语都不存在，可能是一个状语。
+
+   Quickly happening (when you are at school), this situation is good.
+
+#### 常见错误
+
+1. Using this computer to type words, I am learning this computer.
+
+   语法上没有错误，但表意上缺少逻辑。应该是先学电脑，再来使用。
+
+   改正：Learning this computer, I am using this computer to type words.
+
+2. Learning this culture, there are more chances for us to be happy.
+
+   非谓语也是动词，要找动词的主语，主句中没有主语能够发出 learning 这个动词。
+
+### 宾语从句
+
+本质：宾语是个句子
+
+写作时，宾语从句 that 不要省略
+
+阅读中，要小心宾语从句 that 可能省略
+
+介词后也能加宾语，因此有介词的地方就可能有宾语从句
+
+1. that + 完整句子
+
+   This article support that we should protect our environment.
+
+2. what/who 引导 作从句名词成分 n.
+
+   作从句主语：I don't know who won the game.
+
+   作从句宾语：I like what you hate.
+
+   作从句介词后宾语：I like what you are good at.
+
+   作从句定语：I wonder whose jacket this is.
+
+   where/when/why/how/whether 引导 作从句副词成分 adv.
+
+   作从句状语：I like where you play soccer.
+
+   作从句状语同时在主句介词后：I am in where you play soccer.
+
+I think that that these books are good is interesting. 宾语从句套主语从句，不要省略第一个 that，否则造成误解。
+
+### 定语从句
+
+本质是用句子当形容词，用于修饰名词。
+
+被修饰的名词在从句中要么作主语，要么作宾语，因此不能用任何关系副词，只能用关系代词 that/which/who 等，记住没有what，没有原因，记住规则即可
+
+- 没有逗号（限定），只修饰名词，that/which 没有区别
+
+  I like this book that is red.
+
+  This book that could make me happy is good.
+
+  I like this person who you like.
+
+  I like this computer whose screen is big. whose 物主代词，等于形容词，不能单独存在，要加名词
+
+  先行词作宾语，关系代词 that 或 which 可以省略
+
+  I like this book he read.
+
+  A of B that 的定语从句，从句可能修饰A也可能修饰B，取决于上下文意思
+
+  I like this book of history that has many pages. 形容 book
+
+  I like this book of history that fascinates me. 形容 history
+
+- 加逗号（非限定），只能用 which，可能修饰的是名词，也可能修饰的是前面整个句子
+
+  I like to read these books, which makes me happy.
+
+  其中 makes 为单数，故 which 不是修饰 books，而是修饰前面整句话
+
+  I like to read these books, which are expensive.
+
+  修饰 books 故用 are
+
+  一种好用的变形：
+
+  I like this book, the pages of which are red.
+
+  There is a school, the students in which are smart.
+
+- 介词 + which + 完整句子（主谓宾），不能用 that，带介词的定语从句不会修饰前面整个句子，只修饰名词
+
+  There is a table on which what you are eating are delicious.
+
+  I have a computer through which I can play games.
+
+  为什么 which 后是完整句子？因为介词加宾语是状语
+
+  I know a lot of friends among whom there are many doctors.
+  1. 介词本身意思需要理解清楚
+  2. 把 which 替换成被修饰的词
+  3. where 和 when 引导的定语从句，作状语，可使用介词加 which 替换，后面必需加完整句子
+
+  where 修饰地点，以及抽象的可以用 in 来描述的范围
+
+  I like the atmosphere/situation in your school in which I can learn many things.
+
+  这句中 in which 指代 in the atmosphere，而不是 school。in which 可用 where 代替
+
+  但不是所有 where 和 in which 都能互换，where 还可能表达其他介词，不要死记 where = in which
+
+  There is a table where(on which) I can eat something.
+
+  也不是所有 介词 + which 能换成 where
+
+  There is a bridge under which there're fishes. 这里不能用 where，where 只能表达在桥上，不能表达桥下
+
+  when 修饰时间，在某个时间里面
+
+- 定语从句和状语从句的区别
+
+  定语从句与状语从句在句式上可能完全一样，需要根据上下文判断意思
+
+  I can go to **Shanghai**, where I have many books.
+
+  定语从句，where 修饰 Shanghai。我可以去上海，我在那里有很多书。
+
+  I can **go** to Shanghai, where I have many books.
+
+  状语从句，where 修饰 go。在我有很多书的地方，我才能去上海。
+
+  I like December, when I can play soccer.
+
+  状语从句，只有当我能踢球时，我才喜欢 12 月。
+
+  定语从句，我喜欢 12 月，在 12 月里我可以踢足球。
+
+- 专有名词 + 从句，从句大概率为定语从句
+
+  I liked WTO 20 years ago, which is an organization.
 
 ### 同位语和同位语从句
+
+本质：用名词解释名词
 
 #### 同位语和插入语
 
@@ -1075,13 +951,19 @@ I like this piece of news that I can read books. 同位语从句
 
 1. 同位语从句用 that 引导，且 that 之后是完整句子
 
-   I like this fact/idea/opinion/news/story that ...
+   I like this fact/idea/opinion/news/story/content/evidence that ...
+
+   我知道电动车可以帮大家节省燃料
+
+   宾语从句：I know that EVs can save costs of fuels for us.
+
+   同位语从句：I have heard many stories that EVs have saved costs of fuels for us.
 
 2. 用 whether/why 引导（根据意思判断是否为同位语从句）
 
-   There is a question why we are going to this school. （同位语从句）
+   There is a question why we are going to this school. （同位语从句）有一个问题，问题的内容是你为什么去这所学校。
 
-   There is a question why you get confused. （定语从句 why = for which）
+   There is a question why you get confused. （定语从句 why = for which）有一个问题，正是因为这个问题使你困惑。（至于问题内容是什么，并不知道）
 
 3. way 特殊句型
 
@@ -1092,6 +974,10 @@ I like this piece of news that I can read books. 同位语从句
    The thought came to her that maybe she had left the door open when she left home.
 
    came to her 是插入语，修饰 thought，that 是 thought 的同位语信号词，而不是 her 的
+
+   插入语换成 形容词 is good，也要能识别出形容词没有从句，that 修饰前面的名词 thought
+
+   插入语换成 不及物动词 happend，也要能识别出不及物动词没有宾语，不可能是宾语从句，that 修饰前面的名词 thought
 
 #### 常见同位语从句信号词
 
@@ -1133,11 +1019,220 @@ I like this idea/opinion/news/story/fact that
 
    There is a situation where(in which) more people begin to respect our own culture.
 
-### There be
+### 状语从句
+
+#### 定义
+
+本质：一个状语从句本身等于一个副词
+
+副词的作用：修饰动词（也是修饰整个句子，因为整个句子的核心是动词）、形容词、介词短语（介词短语情况很少见）、副词
+
+因此状语从句也只有这四个功能
+
+#### 规则
+
+只有一个关系连词引导，如果有超过一个连词，那么一定是发生了状语从句的嵌套（英语的本质是套娃）
+
+if/when/where/although/though/whereas/while/why/since/because/as(= when/while/because)/given(考虑到)/once(一旦)/providing(= if)
+
+1. 修饰动词
+
+   - 关系连词 + 分句，主句（主语 + 谓语 + 宾语）
+
+     等价于
+
+     主句（主语 + 谓语 + 宾语），关系连词 + 分句
+
+     I can beat you, if you are happy. = If you are happy, I can beat you.
+
+   - “关系连词+分句” 修饰 “主句中的谓语”
+
+     When I was in school, I can play soccer.
+
+     I like this game played by him when he is happy. 没有逗号时，状语从句修饰的动词遵循就近原则，因此修饰非谓语动词 played
+
+     I like this game played by him, when I am happy. 有逗号且根据句意，状语从句修饰主句动词：like
+
+   - 当分句主语和主句主语一样的时候，可以省略分句的主语，如果分句主语有 be 动词，也可以省略。
+
+     When written, this book is new.
+
+2. 修饰形容词
+
+   There is a book useful and important for me when I am learning sth..
+
+3. 修饰介词（不太常见）
+
+#### 实例
+
+1. While
+
+   - 分句有进行时，一般是“当”、“与此同时”
+   - 没有进行时，一般是“尽管”，等于 although
+
+   Although/Though/While 都是尽管（但是）没有实质区别，注意与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
+
+2. though conj. 尽管、但是（从句与主句转折） adv. 但是、然而（与上一个完整句子转折）
+
+   conj.
+
+   Though he is free, he can't go anywhere.
+
+   = He can't go anywhere, though he is free.
+
+   adv.
+
+   This book is full of number. This book, though, is about history.
+
+   = This book is full of number. This book is about history, though.
+
+3. As
+
+   - 介词：作为 + n.
+
+     As a student, you should ...
+
+     regard A as B (n./adj.)
+
+     see A as B
+
+     think of A as B
+
+     值得注意的是，as 后还有跟形容词(adj.)的特殊情况。
+
+     I regard you as important.
+
+   - 连词：后接完整句子
+
+     - 当/随着
+
+     - 因为；通常后置，例如主句表达一个现象，as 句子
+
+     - 正如；as sb./sth. v. ；通常在句首（as 引导的定语从句）或当插入语
+
+       As you said/As you pointed out, I could do this.（As 代替 said 的宾语）
+
+   - as 的固定搭配
+
+     as yet 副词 至今还
+
+     as of + time 介词 自...起，从...开始
+
+     as for = about 介词
+
+     as to = in terms of 介词
+
+     as if/though = like 仿佛、似乎、就好像（字面翻译：就像如果、就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
+
+   - as ... as 中间可以是任何成分，视句子结构而定，但要注意中间内容与前面的上下文语法相连。as ... as 整个结构的词性与中间部分的词性一致
+
+     翻译：第一个 as 忽略不翻译，第二个 as 译为“正如”，第二个 as 词性可以是介词（加名词）也可以是连词（加句子）
+
+     You are as smart as he is. smart 与 are 语法相连，第二个 as 是连词
+
+     You are as smart as him. 第二个 as 是介词
+
+     You can play soccer as when you are happy as when you are sad.
+
+     There is a student as smart as that student. 中间部分 smart 是 adj. 是前面student的后置形容词，那么整个 as smart as that student 也视为后置形容词，此时第二个 as 是介词。如果改为 as smart as that student is 那第二个 as 就是连词
+
+     I can play soccer as in school as in mall.
+
+     I am as smart as he is. 这里是比较，因此可倒装为 I am as smart as is he.
+
+     This city is as beautiful as Shanghai.
+
+     This city grows as beautifully as Shanghai does.
+
+     as ... as 写作易错点：
+
+     错误：You play soccer as beautiful as he dose.
+
+     注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
+
+     正确：You play soccer as beautifully as he dose.
+
+     常见 as ... as 翻译:
+
+     as long as 只要；像...一样远的
+
+     as far as/so far as 至于；像...一样远的
+
+     as well as 和 = and；像...一样好地
+
+     as soon as 尽快；一...就 = the moment
+
+     as early as 早在
+
+     as much as 尽管（仅在句首）；像...一样多的
+
+4. With/Without
+
+   With + ... 相当于介词短语，不能当主句
+
+   - With n. 用/和
+
+   - With A doing/done sth., 翻译为伴随着，A 这里可能是名词，也可能是非常长的从句，一定要找到 doing 或 done 的发出者
+
+     With this book of history in China making me happy, I will buy it.
+
+     this book 为 核心词 是 making 的发出者
+
+   - Without n.
+
+     作状语，修饰动词，翻译为 在没有...的情况下，通常后置。
+
+     I can read this book without a computer.
+
+5. yet
+
+   - 在句首，词性为 conj.或 adv. = but，表转折，译为“尽管”、“但是”
+
+     连词：The test was difficult. Yet he managed to pass it.
+
+     副词：It is a small market town. Yet, it changed the world forever.
+
+     yet 状语从句套 while 状语从句的情况（本质就是英语的完整句子可以无限套娃）
+
+     句子 1, yet while 分句, 主句
+
+     等价于
+
+     句子 1, yet 句子 2（句子 2 = while 分句, 主句）
+
+     句子 2 以主句为主，因此，“句子 1”与“主句”是转折关系，“分句”与“主句”亦是转折关系，但“句子 1”与“分句”无关系，因为两个转折可以从不同的方面进行。
+
+   - 在肯定句中，词性为 adv. = not，表否定，译为“还没”
+
+     I have yet done this. 我还没做这事。
+
+     Yet to be discovered, the ruins remain hidden deep in the jungle.
+
+   - 在否定或疑问句中，词性为 adv. 表示直到现在或某个时间点，译为“还”
+
+   - yet another = another
+
+     yet further = further
+
+     yet more = more
+
+     yet again = again
+
+     yet 表示更加、居然又
+
+   - 特殊意思“早晚”
+
+     I may win this yet. 我早晚会赢得这个。
+
+6. 与其他从句的嵌套
+
+   Although I think that that these books are good is interesting, 主句. （状语从句嵌套宾语从句嵌套 that 引导的主语从句，主句）
+
+### There be/Here be
 
 翻译为有，本质是 there be + n. 整体已经是一个完整的句子。后面不能再加逗号加另外一个句子，除非有连词。
 
-There be + n. + 定语（adj.、定语从句、同位语从句、非谓语动词、介词短语）
+There be + n. + 定语（形容词、介词短语、非谓语动词、定语从句、同位语及从句、动词不定式）
 
 造句：
 
@@ -1165,6 +1260,8 @@ There be + n. + 定语（adj.、定语从句、同位语从句、非谓语动词
 
    There becomes...
 
+   There appears...
+
    There exist n.
 
    There lies n.
@@ -1175,17 +1272,19 @@ There be + n. + 定语（adj.、定语从句、同位语从句、非谓语动词
 
 #### 例句
 
-There is a book interesting.
+There is a book interesting.（形容词）
 
-There is a book that is useful.
+There is a book that is useful.（定语从句）
 
-There is a book making me happy.
+There is a book making me happy.（非谓语动词）
 
-There is a book in my school.
+There is a book in my school.（介词短语）
 
-There is a book, a tool that is useful.
+There is a book, a tool that is useful.（同位语）
 
-There is an idea that I can play soccer.
+There is an idea that I can play soccer.（同位语从句）
+
+There is a book to be sold.（动词不定式）
 
 The book is important for me. There is much importance in this book for me.
 
@@ -1193,49 +1292,89 @@ The trend is steady. There is steadiness in this trend.
 
 I think that I like you. There is an idea from me that I like you.
 
-### so that 与 such that
+### 形式主语
 
-翻译为如此...以至于... 表递进关系
+本质是在强调形容词
 
-1. so adj./adv. that 完整句子
+主语不用翻译
 
-   so 是 adv. 修饰动词、形容词、副词
+形式主语和动名词作主语可以相互转换
 
-   I am so smart that I know all of this.
+It is important for me to learn English.
 
-   I do sth so smart that 这是错误的，smart 不是形容 sth，而是用来修饰 do，所以应该使用副词
+Learning English is important for me.
 
-   I do sth so smartly that ... 正确
+- It is adj. for sb. to do sth.
 
-   I am so smart that I can do this.
+  注意 adj. 能不能形容这个 to do sth.
 
-   I feel so well that I can do this.
+  It is portable for me to use my laptop.
 
-   There is an apple so delicious that I want to eat it.
+  这句话是错误的，portable 可以用于形容 laptop 这个东西，但不能用于形容 use my laptop 这个行为。
 
-   That happened so quickly that I didn't realize.
+  应改为 It is convenient for me to use my laptop.
 
-   I have a book, which is so useful that it taught me everything.
+  It is exciting for me to play soccer. = Playing soccer makes me excited.
 
-   I have a book, which taught me so effectively that I know every thing.
+- It is adj. that + 完整句子.
 
-2. such n. that 完整句子
+  It is likely that ... (likely 是 adj.)
 
-   such 是 adj. 修饰名词
+  It is notable that ...
 
-   You are such a good boy that you can do this.
+  It is important that we should read books.
 
-   This is such a perfect book that is useful that I want to read it.
+  It is useful for me that I can read books.
 
-   I am happy today because I earned such a great bag today that I am thrilled.
+- 感官动词（look/sound/taste/smell/feel） = 系动词（seem/become/stay/grow/remain） = be 动词，因此 It + 感官动词 也大概率是形式主语
 
-   It is important to have such a great book that I can read it everyday.
+  It seems/sounds/remains that...
 
-3. so that 作连词 conj.，翻译为以至于，表递进
+  It seems as if you OK.
 
-   句子 1, so that 句子 2
+  It is believed/said/convinced that...
 
-   There are so many apples so that there is no other fruit.
+- 不是所有 it 开头的句子都是形式主语
+
+  It can make me happy.
+
+### 形式宾语
+
+先了解 make A B 的知识点，再了解形式宾语
+
+make/leave/find/render/have A(n.) B(v./adj./prep./n.)
+
+- leave + 地点 表示离开某地
+
+  其他情况 leave = make = render 表示留下或使得
+
+  当 A 后面有个很长的定语从句时，可能会把 B 放在 A 前
+
+  This book leave you happy.
+
+  This book leave happy you who are from China and playing soccer in your school.
+
+  I can make you play soccer.
+
+  I can make you important.
+
+  I can make you in school.
+
+  I can make you a player.
+
+  I want to make playing soccer in our nation become more and more popular.
+
+  I want to make it become more and more popular for us to play soccer in our nation.
+
+  I want to make it possible for me to do sth.
+
+形式宾语是一种特殊的 make A B
+
+I can make it easy for you to do something.
+
+I want to make it a habit for you to learn English.
+
+it 代替的就是后面的 to do something，形式宾语的意义是让 make 和 easy 更靠近，防止实际宾语太长，阻碍意思的表达。
 
 ### 强调句
 
@@ -1252,13 +1391,10 @@ Among countless functions of music, it is music that can connect various people.
    核心：当我们去掉 "It is" 和 "that"，剩下的部分合在一起依旧是完整句子。
 
    因此强调句甚至可以强调状语从句、介词短语、动名词做主语、主语从句
-   - 介词短语/(连词 + 分句), 主句
 
-     强调后：
+   - 强调状语从句（关系连词 + 分句, 主句）
 
-     It is 介词短语/(连词 + 分句) that 主句
-
-     It is in my school that I want to learn things.
+     强调后：It is 关系连词 + 分句 that 主句.
 
      It is if you come to my school that I will do this.
 
@@ -1266,17 +1402,22 @@ Among countless functions of music, it is music that can connect various people.
 
      It is when I was a kid that I could play soccer.
 
-   - 动名词/主语从句 + 谓语 + 宾语
+   - 强调介词短语
 
-     强调后：
+     强调后：It is 介词短语 that 主句
 
-     It is 动名词/主语从句 that 谓语 + 宾语
+     It is in my school that I want to learn things.
+
+   - 强调动名词/主语从句（动名词/主语从句 + 谓语 + 宾语）
+
+     强调后：It is 动名词/主语从句 that 谓语 + 宾语
 
      It is playing games that is a good way of relaxing.
 
      It is what you read everyday that is useful.
 
    例句：
+
    1. 电动车可以保护环境
 
       EVs can help improve/ameliorate our environment.
@@ -1303,9 +1444,77 @@ Among countless functions of music, it is music that can connect various people.
 
   I did like this book. 我过去确实喜欢这本书。
 
+#### 感叹句
+
+语法：
+
+- What + n.
+
+- How + adj./adv.
+
+例句：
+
+What a pity.
+
+How important it is.
+
+How smart you are.
+
+How smartly you play soccer.
+
+### so that/such that
+
+翻译为如此...以至于... 表递进关系
+
+so 词性是 adv. ，用于修饰动词、形容词、副词，但 so 只用在修饰形容词和副词
+
+such 词性是 adj. ，用于修饰名词
+
+so that 连在一起，词性是 conj. 连词，和 and, but 一样用法
+
+1. so adj./adv. that 完整句子
+
+   I am so smart that I know all of this.
+
+   I do sth so smart that 这是错误的，smart 不是形容 sth，而是用来修饰 do，所以应该使用副词
+
+   I do sth so smartly that ... 正确
+
+   I am so smart that I can do this.
+
+   I feel so well that I can do this.
+
+   There is an apple so delicious that I want to eat it.
+
+   That happened so quickly that I didn't realize.
+
+   I have a book, which is so useful that it taught me everything.
+
+   I have a book, which taught me so effectively that I know every thing.
+
+   Broadcasters are still making the bet that live sports will continue to fascinate TV audiences so diverse/wonderfully that there are countless kinds of them.
+
+   如果是 diverse，形容词修饰名词 audiences，如果是 wonderfully，副词修饰动词 fascinate
+
+2. such n. that 完整句子
+
+   You are such a good boy that you can do this.
+
+   This is such a perfect book that is useful that I want to read it.
+
+   I am happy today because I earned such a great bag today that I am thrilled.
+
+   It is important to have such a great book that I can read it everyday.
+
+3. so that 作连词 conj.，翻译为以至于，表递进
+
+   句子 1, so that 句子 2
+
+   There are so many apples so that there is no other fruit.
+
 ### 倒装句
 
-本质 主谓宾 变成了 宾谓主
+本质 主谓宾 变成了 宾谓主（完全倒装） 或 谓主宾（部分倒装）
 
 I am in school. 倒装 In school am I.
 
@@ -1331,35 +1540,45 @@ I am in school. (be + prep.)
 
 介词短语/形容词开头，两者不能作主语，且 be 动词单三是根据后面真正的主语
 
-- Among 开头的倒装（介词）
-  1. Among many students in school are you who are from China and are tall and smart.
+- 介词短语开头的倒装
+
+  1. In my bags is a book that has many pages.
+
+  2. Among many students in school are you who are from China and are tall and smart.
 
      正常语序：You who are from China and are tall and smart are among many students in school.
 
-  2. Among many students who are in China are you. (第二个 are 是因为 you 跟前面无关)
+  3. Among many students who are in China are you. (第二个 are 是因为 you 跟前面无关)
 
      正常语序：You are among many students who are in China.
 
-  3. Among others is he.
+  4. Among others is he.
 
-  4. Among others are many students.
+  5. Among others are many students.
 
 - 形容词开头的倒装
+
   1. Smart is this student who has many computers and books.
 
      正常语序：This student who has many computers and books is smart.
 
   2. More important in my books are my pages.
 
+  3. Important are you who are from China.
+
 #### 部分倒装
 
-- 否定副词打头，主谓倒装，谓语有助动词的，仅主语和助动词倒装
+- 否定副词打头，主谓倒装，谓语有助动词的，仅主语和助动词（have will do 等）倒装
 
   即 否定副词 谓语 主语 宾语
 
+  否定副词：(only/rarely/seldom/little/hardly/merely/barely/scarcely/nowhere/never/only/not only) = not
+
   I have rarely finished this. 半倒装 Rarely have I finished this.
 
-  否定副词：(only/rarely/seldom/little/hardly/merely/barely/scarcely/nowhere/never/not only) = not
+  Only when I am happy, I can do this. 半倒装 Only when I am happy can I do this.
+
+  I will not only do this, but also do that. 半倒装 Not only will I do this, but also do that.
 
 - so/neither/nor 倒装（表示“也”）
 
@@ -1383,13 +1602,33 @@ I am in school. (be + prep.)
 
   倒装：A book as he has, he did not read it.
 
-- As 倒装（表示“正如”）
+- As 倒装
 
-  As be sb. 正如某人一样
+  1. 表示“正如”
 
-  正常语序：As sb. be
+     As be sb. 正如某人一样
 
-- more than 倒装
+     正常语序：As sb. be
+
+     She is a talented singer, as is her sister.
+
+     He supports the new policy, as do most of his colleagues.
+
+  2. 表示“尽管”
+
+     将从句中的 形容词、副词、名词、动词提到句首，注意名词提前不可加任何冠词
+
+     形容词：Proud as he is, he listened to my advice.
+
+     动词：Try as he might, he couldn't open the door.
+
+     名词：Child as he is, he knows a lot. 注意 child 前不可加 A
+
+     形容词：Happy as you are, you can not do this. 正常语序：As you are happy, you can not do this.
+
+     副词：Happily as you play soccer, you can not do this. 正常语序：As you play soccer happily, you can not do this.
+
+- 比较级倒装
 
   I like this book more than he does.
 
@@ -1397,51 +1636,71 @@ I am in school. (be + prep.)
 
   I like this book more than does he.
 
+  I can play soccer better than do you.
+
+  I am happier than is he.
+
 - 引用倒装（引用说话的句子常使用倒装）
 
   "..." he says 常会倒装为 "..." says he
 
   "..." the reply came 常倒装为 "..." came the reply
 
-### 虚拟语气中的省略与倒装
+### 虚拟语气
 
-1. had
+虚拟语气口语中用得多，书面很少，注意虚拟语气是有省略和倒装的
 
-   Had 打头的陈述句分句，是虚拟语气 had 倒装省略 if，可以直接把 had 当成 if 来理解
+1. 现在时虚拟
 
-   If you had become happy, you would do this.
+   - 表命令 should + 原形，注意should可省略，当看到只有一个be的句子，要想到是命令的虚拟语气
 
-   等于
+     The committee demanded that he be removed from office.
 
-   Had you become happy, you would do this.
+   - 祝福语，动词用原形
 
-   等于
+     God bless you. (God 单数，但 bless 仍用原形)
 
-   You would do this had you become happy.
+     Long live the King. 国王万岁 live 原形，且句子倒装
 
-   Had sth. happend, I would do this. = If sth. had happend, I would do this.
+2. 过去时虚拟
 
-2. were
+   - 与事实背离
 
-   Were I you, I would do this. = If I were you, I would do this.
+     - 对现在假想 were/had/would
 
-### With/Without
+       1. were
 
-With + ... 相当于介词短语，不能当主句
+          Were I you, I would do this. = If I were you, I would do this.
 
-- With n. 用/和
+       2. had
 
-- With A doing/done sth., 翻译为伴随着，A 这里可能是非常长的从句，一定要找到 doing 或 done 的发出者
+          Had 打头的陈述句分句，是虚拟语气 had 倒装省略 if，可以直接把 had 当成 if 来理解
 
-  With this book of history in China making me happy, I will buy it.
+          If you had become happy, you would do this.
 
-  this book 为 核心词 是 making 的发出者
+          等于
 
-- Without n.
+          Had you become happy, you would do this.
 
-  作状语，修饰动词，翻译为 在没有...的情况下，通常后置。
+          等于
 
-  I can read this book without a computer.
+          You would do this had you become happy.
+
+          Had sth. happend, I would do this. = If sth. had happend, I would do this.
+
+     - 对过去后悔 could/should/might have done
+
+       1. could have done 本可以做（而没做）
+
+       2. should have done 本应该做（而没做）
+
+       3. might have done 本可能、差点就（表后怕）
+
+   - 礼貌与委婉
+
+     could you please
+
+     would you mind
 
 ### 插入语
 
@@ -1450,522 +1709,3 @@ With + ... 相当于介词短语，不能当主句
 I like WTO, the/an organization that was established in 1900.
 
 后半句整体作为同位语，解释 WTO。
-
-## 时态
-
-### 一般过去时
-
-I played soccer.
-
-### 完成时
-
-I have played soccer.
-
-通常不会是单独使用完成时，前后会有受完成时语境影响的其他句子。
-
-### 一般现在时
-
-一定会发生
-
-There are some reasons that lead to this situation in the picture.
-
-### 过去完成时
-
-过去的过去，对过去的影响
-
-### 现在完成进行时
-
-have been doing 从过去到现在一直做某事，完美翻译就是“一直”
-
-## 其他
-
-- 一句话第一个单词是 doing，考虑两种情况：
-  1. 动名词作主语：Doing sth 谓语（单数）宾语
-
-  2. 非谓语动词：Doing sth, 主谓宾
-
-- 一句话第一个单词是 Done，非谓语动词：Done by sth/副词，主谓宾。
-
-- stress A over B, embrace A over B, prefer A over B
-
-  over 超过，A 为程度更深的那个。
-
-- have sth to do with 有关
-
-  have nothing to do with 无关
-
-- 常与 over 搭配的动词
-
-  control over sth. 对某事的控制。
-
-  advantage over sb./sth. 比某人或某事更有优势。
-
-  edge over 同上，也表示优势。
-
-- one, the other 一个，另一个。总数只有两个。
-
-  one, another 一个，另一个。总数超过两个。
-
-- not so much A as B = not A but rather B 不是 A，而是 B
-
-  so much as = even 甚至
-
-- call A B 称呼 A 为 B，中间无介词，遇到要注意将 A 和 B 分开。B 可能是 n./adj./不定式 等。
-
-  类似的还有
-
-  offer A B
-
-  give A (to) B
-
-  consider A (as) B
-
-  find A B
-
-  make A B
-
-  leave A B
-
-  declaire A B
-
-- 表达“提供给某人某物”
-
-  offer A(sb.) B = provide A(sb.) with B
-
-  offer you an apple = provide you with an apple
-
-  当 A 不是 sb.而是 sth.时，或表达的意思不同时，要灵活使用介词，不要拘泥于固定搭配
-
-  offer an apple to you
-
-  provide an apple for you
-
-  provide an apple through your friend to your mom
-
-- to the extent that 词性为 adv. 到了（从句中描述的）程度。
-
-  I can do this, to the extent that ... 我能做这个事情，能做到...的程度。
-
-- 英语中常用 ones 加从句来描述前面的主语。ones 就指代前面的主语。
-
-  Computers are ones that are important tools.
-
-  上面一句等同于 Computers are important tools.
-
-- would have done 本可能将会
-
-  could have done 本可能做
-
-  should have done 本应该做
-
-- I think that
-
-  I think of sth
-
-  I believe that
-
-  I believe in sb/sth
-
-- such as 不同于 for example，such as 是对大的复数的概念进行详细列举，而不是对一个事物进行举例说明。
-
-  My dad likes to read books, such as history books and math books.
-
-  such 还可能提前到大的概念之前，意思完全不变。
-
-  My dad likes to read such books as history books and math books.
-
-- allow sb to do sth.
-
-  allow for sth.
-
-- 并列句谓语相同时可能省略
-
-  I like apples, I like pears, and I like watermelons.
-
-  可省略为
-
-  I like apples, I pears, and I watermelons.
-
-- 保护，阻止等固定搭配为 from 的词组，from 应该翻译为免于
-
-  shield sb from sth
-
-  protect sb from sth
-
-  prevant sb from sth
-
-- ability 固定搭配 to，表示关于某事的能力
-
-  I want to have your ability to read books.
-
-  这里要注意不能理解为 have sth to do，不是有某种能力再去做某事，而是 ability to do，有做某事的能力。
-
-- 时间（作关系连词）加完整句子，整体作主句的状语或解释说明：时间 + 主谓宾, 主谓宾.
-
-  Every time
-
-  The day
-
-  One hour after
-
-  The moment
-
-  例句：
-
-  The day you saw me, you were happy.
-
-  The moment I saw you, I fell in love with you.
-
-- place a value on sth
-
-  Value has been placed on sth
-
-  两个固定搭配，上价值，即重视某事。
-
-- anything but 任何事除了
-
-  everything but 任何事除了
-
-  nothing but 什么都不是除了
-
-  这里可以把 but 翻译为除了，主要强调 but 后的意思。
-
-  例句：
-
-  You are everything but smart. = You are not smart.
-
-  He is nothing but important. = He is important.
-
-- way 相关词组
-  - out of the way 不挡道
-
-  - in the way 阻止 get in the way of
-
-  - in a/one's way 以...方法
-
-  - on the/one's way 快到了
-
-  - by the way 顺便说一下
-
-  - v. ones way 一路以 v. 的方式
-
-    You like to play games.
-
-    Do you want to play your way into college?
-
-- Of n., 主谓宾
-
-  该句型中，of 翻译为在...中，n.是一个较大的概念，而后半句的主语通常是较大概念中的一个小概念。
-
-- sb. keep doing sth. 某人持续做某事。
-
-  sth. keep sb. (from) doing sth. 某事阻止某人做另外某事，注意 from 有时省略。
-
-- sleep/dream on sth. 睡过去，不用管某事。
-
-- bring about = lead to 导致。
-
-- be immune to (from) sth. 对某物产生免疫。
-
-- out 作为前缀的词，表示程度更深，超过
-
-  A outlive B - A 比 B 活得更久
-
-  A outsmart B - A 更聪明胜过 B
-
-  A outperform B - A 比 B 表现更好
-
-  A has been outgrew by B - A 被 B 发展超过了
-
-- 句子 A, before 句子 B = Before 句子 B, 句子 A
-
-  英语中常常分句做状语后置，而中国人习惯状语前置，故一定注意两种形式表达的意思完全一致。
-
-  句子 A 先发生，句子 B 后发生。
-
-- in the wake of = after
-
-- more often than not = usually
-
-- coupled with 加上
-
-  My ability, coupled with your skills, can help us do many things.
-
-- lay off 解雇
-
-  Company lay off employees.
-
-- make up with 弥补，修复，重归于好
-
-- saving account （美国）存款账户，有取款限制有利息，相当于国内定期
-
-  checking account （美国）支票账户，无限制无利息，相当于国内活期
-
-- bear 过去式：bore 过去分词：borne
-
-- a lot of 量词，修饰名词
-
-  I have a lot of books.
-
-  a lot 副词，修饰比较级（形容词）
-
-  You are a lot smarter than me.
-
-  a great/good deal of 量词，修饰不可数名词
-
-  a great/good deal 副词，修饰比较级（形容词）
-
-  You are a good deal smarter than me.
-
-  A looks far less like B, and a good deal more like C. A 看起来远不像 B，并远远更加多像 C。
-
-- scores of sth. 不是 A of B（核心词是 A），scores of 是量词，表示很多，核心词是后面的 sth.
-
-- should 除表示“本应该”外，还用在从句的 that 后，或用在 why，how，who，what 等词后，表示惊讶，译为竟然，还能。
-
-  It is astonishing that we should find violence here. 很惊讶的是我们竟然在这里发现了暴力。
-
-  I was in this store when who should I see across the street but Toby？ 当我在这家商店时，除了托比我还能在街对面看到谁？
-
-- a- 前缀 (大部分情况为 adjective 词性)
-  1. 表示状态
-
-     alike 表示 like (相似) 的状态 (也有副词用法)
-
-     asleep 表示 sleep 的状态
-
-     awake 表示 wake 的状态
-
-     astray 表示 stray 的状态
-
-  2. 表示相反
-
-     asynchronize 异步 synchronize 同步
-
-     asymmetric 不对称的 symmetric 对称的
-
-- do the rounds
-  1. to be passed from one person to another person and become widely known. 新闻或谣言被一个人接一个人地传播并被广泛知晓，即撒播。
-
-     _"Rumors about his resigning as CEO were doing the rounds."_
-
-  2. 访问或参与很多特定团体的事物，通常是流程的一部分，即走流程。
-
-- have sb. to do sth.
-
-  使某人做某事
-
-- have/get sth./sb. done
-
-  表被动，使某事物或某人被做。
-
-  This apple is eaten by me.
-
-  I have/get this apple eaten.
-
-- range from A to B
-
-  The store sells something to public, ranging in price from $2 to $4.
-
-- attach importance/significance/value/weight to
-
-  People attach too much importance to economic forecasts.
-
-- behind the scenes 表示“在幕后”
-
-- the player of the year 年度最佳球员
-
-  the movie of the year 年度最佳电影
-
-  lists of players of the tournament 锦标赛最佳球员列表
-
-- 20-somethings 20 多岁的人
-
-- in charge 负责、管理（当领导）
-
-  Your friends in charge are good. 你那些当领导的朋友是好人。
-
-  Your friends are in charge. 你那些朋友是当领导的。
-
-  in charge of 管理某事（主动）
-
-  in the charge of 在某人的管理下（被管）
-
-- Just because ..., doesn't mean that ...
-
-  仅仅因为某事，并不意味着...
-
-  Just because you are a student, doesn't mean that you can have this for free.
-
-- Just as 句子 1, 句子 2.
-
-  就好像 句子 1 一样，句子 2 也怎样。
-
-- defend the title 卫冕
-
-- not 用于动词否定
-
-  no 用于名词否定
-
-- prior to 介词短语 = before 介词（before 也可当连词）
-
-- boil down to 归结为
-
-- a home (away) from home 宾至如归的地方
-
-- 祈使句 + and + 主谓宾
-
-  Look at that school and you will be happy about their facilities.
-
-- 长介词短语 + 主谓宾
-
-  介词短语修饰主句中的主语
-
-  With no facilities like that school, my school is also good.
-
-- 某某感 在英文中使用 sense of ... 不用 feeling/thought 等
-
-  例如：安全感 sense of security
-
-- To do sth., 主句. 译为 为了做某事，怎么怎么样。实质上句首的 To 前 省略了 In order
-
-- say 后大概率跟句子，可能会跟一个名词。think 后 100%跟句子，因为跟名字时会用 think of。
-
-  say n.
-
-  say (that) 句子
-
-  think (that) 句子
-
-  think of n.
-
-- wary adj. 小心的；提防的
-
-  be wary of 小心某事
-
-  be aware of 注意某事
-
-  be capable of 有能力做某事
-
-- be the case 这个情况
-
-  would otherwise have been the case. 不是这样的情况。（前面有个 what 常常被省略）
-
-  Sth. happend. They do sth. fewer than (what) would otherwise have been the case. 一些事情发生了，他们做某件事更少了，比不是这样的情况下。
-
-- only if 几乎等于 if。if 译为如果，不排除其他情况；only if 译为除非（仅仅如果），only if 排除了其他情况；还要注意 only 开头（否定副词开头），主谓倒装的情况
-
-  if only 译为要是这样就好了
-
-- 非谓语作状语的 3 个情况
-
-  By doing sth.
-
-  Without doing
-
-  Using sth.
-
-- hand in hand 手拉手，也可表示合作、配合
-
-  A could go hand in hand with B = A needs to cooperate with B
-
-- bind v. 束缚（过去式与过去分词 bound）
-
-  be bound to 注定会，必然会
-
-- of sorts 某种程度上的（不太典型的例子）
-
-  a lie of sorts 一个谎言在某种程度上
-
-  sort of 某种程度上的（有点）
-
-- be of n. = have n. = be adj.
-
-  This book is of importance.
-
-  This book has importance.
-
-  This book is important.
-
-- be it A or B 无论 A 还是 B = whether A or B
-
-- foot 表示尺寸时，什么时候用单数什么时候用复数
-  1. 当形容词时用单数 a 10-foot tree
-
-  2. 当名词时常用复数 tree is 10 feet high
-
-  3. 形容身高且带有英寸时常用单数 I'm 5-foot-7 = I'm 5 feet 7 inches tall
-
-     整数英寸身高直接使用复数 I'm 6 feet tall.
-
-- centi- 前缀 指百分之一 或 一百
-
-  centimeter 百分之一米即一厘米
-
-- used to do 译为过去常常做（现在不了），其中 used 作为动词过去式 to 为不定式（但还有一种情况是两者没有关系，used 跟着前面的意群 to 是动词不定式）
-
-  be used to doing 译为习惯于做，used 作为形容词 to 为介词
-
-  be used to do 译为被用来做，used 作为动词过去分词，to 为不定式
-
-- 常见简单词组或词汇，但理解易错
-  1. happen to 碰巧
-
-  2. come across 偶遇
-
-  3. all the same = nevertheless 即便如此
-
-  4. practically = virtually = pretty much = almost = nearly 几乎/实际上
-
-  5. given 在句首，词性为介词（后面跟名词）或连词（后面跟一个句子），译为考虑到
-     - Given you are a boy, you can do this.
-
-     - Given your gender, you can do this.
-
-     - Given the weather today, I don't want to go to school.
-
-       Given the weather today 从句相当于副词 可后置
-
-       I don't want to go to school given the weather today.
-
-  6. provided 在句首，词性为连词（后面跟句子），译为如果（= if）
-
-     provided 分句, 主句
-
-  7. in charge 负责、管理（当领导）
-
-  8. bring about = lead to 导致
-
-  9. not least = in particular; notably. 尤其
-
-  10. set out 出发旅程；想要做某事；按特定顺序安排或罗列某事
-
-  11. now that 既然（现在已经是这个样子了）
-
-  12. in that = because 连词 （in that 单独作为一个意群时）
-
-  13. A feed on B. A 以 B 为食
-
-      A live on/off B. A 靠 B 活
-
-      feed v. 喂养；使逐渐穿过（受限空间） n. 喂养；向机器输送原材料的设备或导管；给舞台演员的提词
-
-      live v. 保持活着；安家、生活 adj. 活着的；现场的（非录音的）；接电源的；热点（话题）的 adv. 直播地
-
-  14. in the wake of = in the pace of 随着（...的结果）
-
-      wake v. 醒来 n. 守灵；教堂守护节；（船或飞机在水或空气中留下的）尾迹
-
-      in the wake of 的 wake 是 n. 尾迹的意思
-
-  15. back and forth adv. 来来回回地
-
-  16. in the meantime 与此同时（常用于与上文转折）
-
-  17. at odds with 与之相矛盾
-
-  18. stake n. 木或金属桩；赌注 v. （用木桩）支撑；下注
-
-      at stake 1. 输赢之间的、危在旦夕的 = at risk/to be won or lost 2. 处在争论中的、有问题的 = at issue/in question
-
-  19. It pays to do sth. 做某事是有益的。
