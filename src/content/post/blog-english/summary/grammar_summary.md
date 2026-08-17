@@ -794,6 +794,8 @@ Producing computers from China is interesting.
 
 介词后也能加宾语，因此有介词的地方就可能有宾语从句
 
+比如：In a place 可以用宾语从句：In where you play soccer, I am happy.
+
 1. that + 完整句子
 
    This article support that we should protect our environment.
@@ -1023,7 +1025,7 @@ I like this idea/opinion/news/story/fact that
 
 #### 定义
 
-本质：一个状语从句本身等于一个副词
+本质：一个状语从句分句本身等于一个副词
 
 副词的作用：修饰动词（也是修饰整个句子，因为整个句子的核心是动词）、形容词、介词短语（介词短语情况很少见）、副词
 
@@ -1033,7 +1035,7 @@ I like this idea/opinion/news/story/fact that
 
 只有一个关系连词引导，如果有超过一个连词，那么一定是发生了状语从句的嵌套（英语的本质是套娃）
 
-if/when/where/although/though/whereas/while/why/since/because/as(= when/while/because)/given(考虑到)/once(一旦)/providing(= if)
+if/when/where/although/though/whereas/while/why/since/because/as(= when/while/because)/given(考虑到)/once(一旦)/providing或provided(= if)
 
 1. 修饰动词
 
@@ -1057,20 +1059,32 @@ if/when/where/although/though/whereas/while/why/since/because/as(= when/while/be
 
      When written, this book is new.
 
+   - 非谓语动词状语从句
+
+     非谓语动词也是动词，意味着它也可以加状语从句。
+
+     If I can buy it tomorrow, this book written by me when you are in Beijing is useful.
+
+     written by me 是非谓语动词，when you are in Beijing 状语从句，可以修饰 written 也可以修饰后面的 is，但通过意思判断是修饰 written。最前面的条件状语从句If I can buy it tomorrow，因为有逗号，所以修饰主句的核心谓语 is
+
 2. 修饰形容词
 
    There is a book useful and important for me when I am learning sth..
 
 3. 修饰介词（不太常见）
 
-#### 实例
+#### 重点关系连词
 
 1. While
 
-   - 分句有进行时，一般是“当”、“与此同时”
+   翻译为“与此同时”，既会有“当”的意思，又会有“尽管”的意思，不用纠结两种意思的区分，效率会高很多。
+
+   - 分句有进行时，一般是“当”，等于 when
    - 没有进行时，一般是“尽管”，等于 although
 
-   Although/Though/While 都是尽管（但是）没有实质区别，注意与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
+   I am doing everything to win this match while you are playing games everyday.
+
+   Although/Though/While 都是尽管（但是）没有实质区别，只是 although 和 though 相对更正式，while 相对转折程度更弱些。注意三者与连词 but 意思上没有太大的区别，但句子表达的重点有区别，“句子 1, but 句子 2”，句子 2 是重点；“Although 句子 1, 句子 2”，句子 2 是重点。
 
 2. though conj. 尽管、但是（从句与主句转折） adv. 但是、然而（与上一个完整句子转折）
 
@@ -1088,29 +1102,33 @@ if/when/where/although/though/whereas/while/why/since/because/as(= when/while/be
 
 3. As
 
-   - 介词：作为 + n.
+   as 很常见，是因为意思很多且常见，用起来也很灵活方便
+
+   - as 作介词，翻译为“作为”。后面接名词 as + n.
 
      As a student, you should ...
 
-     regard A as B (n./adj.)
-
-     see A as B
-
-     think of A as B
+     regard/consider/deem/see/think of A as B (n./adj.)
 
      值得注意的是，as 后还有跟形容词(adj.)的特殊情况。
 
      I regard you as important.
 
-   - 连词：后接完整句子
+   - as 作连词，后接完整句子 as + 主谓宾
 
-     - 当/随着
+     - 翻译为“当”，= when
+     - 翻译为“因为”，= because 通常后置，例如主句表达一个现象，从句是 as + 句子
+     - 翻译为“正如”，as sb./sth. v. 通常在句首或当插入语
 
-     - 因为；通常后置，例如主句表达一个现象，as 句子
+     读得句子多了，会发现，前两个意思“当”与“因为”没有本质的差别，都是一种条件状语，互换也不影响对句子的理解。因此很多母语人表达时就不用去纠结用 when 还是 because，用 as 完美适配两种情况。
 
-     - 正如；as sb./sth. v. ；通常在句首（as 引导的定语从句）或当插入语
+     as 译为“正如”时，现代语法书会把它当连词。但实际上你会发现句子成分并不完整，要么缺宾语要么缺主语，as 需要充当句子成分，那此时 as 词性其实更像定语从句的关系代词 which
 
-       As you said/As you pointed out, I could do this.（As 代替 said 的宾语）
+     As you said/As you pointed out, I could do this.
+
+     As is reported in this article, I am a student.
+
+     As showed in this experiment, you are correct.
 
    - as 的固定搭配
 
@@ -1124,47 +1142,63 @@ if/when/where/although/though/whereas/while/why/since/because/as(= when/while/be
 
      as if/though = like 仿佛、似乎、就好像（字面翻译：就像如果、就像尽管）你数学不及格，就像没学过一样（You failed in math exam. It is as though you've never learned math.）
 
-   - as ... as 中间可以是任何成分，视句子结构而定，但要注意中间内容与前面的上下文语法相连。as ... as 整个结构的词性与中间部分的词性一致
+   - as ... as 结构
 
      翻译：第一个 as 忽略不翻译，第二个 as 译为“正如”，第二个 as 词性可以是介词（加名词）也可以是连词（加句子）
 
-     You are as smart as he is. smart 与 are 语法相连，第二个 as 是连词
+     两个 as 中间可以是任何成分，视句子结构而定。整个 as ... as 结构的词性与中间部分的词性一致
 
-     You are as smart as him. 第二个 as 是介词
+     注意：两个 as 中间内容与前面的上下文语法相连，即去除 as ... as 结构，剩余的中间部分和前面相连也不能有语法上的错误。
 
-     You can play soccer as when you are happy as when you are sad.
+     - 例句
 
-     There is a student as smart as that student. 中间部分 smart 是 adj. 是前面student的后置形容词，那么整个 as smart as that student 也视为后置形容词，此时第二个 as 是介词。如果改为 as smart as that student is 那第二个 as 就是连词
+       You are as smart as he is. smart 与 are 语法相连，第二个 as 是连词
 
-     I can play soccer as in school as in mall.
+       You are as smart as him. 第二个 as 是介词
 
-     I am as smart as he is. 这里是比较，因此可倒装为 I am as smart as is he.
+       You can play soccer as when you are happy as when you are sad.
 
-     This city is as beautiful as Shanghai.
+       There is a student as smart as that student. 中间部分 smart 是 adj. 是前面student的后置形容词，那么整个 as smart as that student 也视为后置形容词，此时第二个 as 是介词。如果改为 as smart as that student is 那第二个 as 就是连词
 
-     This city grows as beautifully as Shanghai does.
+       I can play soccer as in school as in mall.
 
-     as ... as 写作易错点：
+       I am as smart as he is. 这里是比较，因此可倒装为 I am as smart as is he.
 
-     错误：You play soccer as beautiful as he dose.
+       This city is as beautiful as Shanghai.
 
-     注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
+       This city grows as beautifully as Shanghai does.
 
-     正确：You play soccer as beautifully as he dose.
+       This apple is as sweet in Beijing as in shanghai.
 
-     常见 as ... as 翻译:
+       I want to write a song as good as yours.
 
-     as long as 只要；像...一样远的
+       I want to write a song as well as you do.
 
-     as far as/so far as 至于；像...一样远的
+       I hope you can tell me a specific address as accurately as possible.
 
-     as well as 和 = and；像...一样好地
+       I hope you can give me a report as accurate as possible.
 
-     as soon as 尽快；一...就 = the moment
+     - as ... as 写作易错点：与前面句子不语法相连
 
-     as early as 早在
+       错误：You play soccer as beautiful as he does.
 
-     as much as 尽管（仅在句首）；像...一样多的
+       注意 beautiful 词性是形容词，不能修饰动词，需要换成副词。
+
+       正确：You play soccer as beautifully as he does.
+
+     - 常见 as ... as 翻译:
+
+       as long as 只要；像...一样远的
+
+       as far as/so far as 至于；像...一样远的
+
+       as well as 和 = and；像...一样好地
+
+       as soon as 尽快；一...就 = the moment
+
+       as early as 早在
+
+       as much as 尽管（仅在句首）；像...一样多的
 
 4. With/Without
 
