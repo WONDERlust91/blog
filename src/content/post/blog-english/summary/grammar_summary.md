@@ -1119,6 +1119,9 @@ if/when/where/although/though/whereas/while/why/since/because/as(= when/while/be
      - 翻译为“当”，= when
      - 翻译为“因为”，= because 通常后置，例如主句表达一个现象，从句是 as + 句子
      - 翻译为“正如”，as sb./sth. v. 通常在句首或当插入语
+     - 翻译为“尽管”，只会出现在 as 倒装句
+
+     Smart as he is, he made this mistake.
 
      读得句子多了，会发现，前两个意思“当”与“因为”没有本质的差别，都是一种条件状语，互换也不影响对句子的理解。因此很多母语人表达时就不用去纠结用 when 还是 because，用 as 完美适配两种情况。
 
@@ -1128,7 +1131,7 @@ if/when/where/although/though/whereas/while/why/since/because/as(= when/while/be
 
      As is reported in this article, I am a student.
 
-     As showed in this experiment, you are correct.
+     As shown in this experiment, you are correct.
 
    - as 的固定搭配
 
@@ -1554,6 +1557,8 @@ I am in school. 倒装 In school am I.
 
 This book is among many books. 倒装 Among many books is this book.
 
+倒装不是必需，不倒装时的语序也是正确的语法
+
 #### 主谓宾 4 种形式
 
 I love you. (v.)
@@ -1566,7 +1571,7 @@ I am in school. (be + prep.)
 
 #### 为什么倒装
 
-1. 宾语相对主语更加重要
+1. 宾语相对主语更加重要，强调重要的部分
 
 2. 主语加定语从句太长，谓语宾语太短
 
@@ -1590,6 +1595,8 @@ I am in school. (be + prep.)
 
   5. Among others are many students.
 
+  并不是所有介词短语开头就是倒装，如：Among 10 students who are from China, you are the best.
+
 - 形容词开头的倒装
 
   1. Smart is this student who has many computers and books.
@@ -1602,7 +1609,7 @@ I am in school. (be + prep.)
 
 #### 部分倒装
 
-- 否定副词打头，主谓倒装，谓语有助动词的，仅主语和助动词（have will do 等）倒装
+- 否定副词打头，主谓倒装，谓语有助动词的，仅主语和助动词（have will do 情态动词等）倒装
 
   即 否定副词 谓语 主语 宾语
 
@@ -1614,7 +1621,27 @@ I am in school. (be + prep.)
 
   I will not only do this, but also do that. 半倒装 Not only will I do this, but also do that.
 
+  He had hardly started toleave when it began to rain. 半倒装 Hardly had he started to leave when it began to rain.
+
+  He does little care about hes clothes. 半倒装 Little does he care about his clothes.
+
+  Only when our school become better can we make it happen. 半倒装 Only when you come to my place can we finish this project.
+
+  only 修饰整个 when 状语从句，状语从句是状语，整句词性为 adv. 然后 only 也是 adv. 副词可以修饰副词
+
+  He can not speak a single word of English. 特殊倒装 Not a single word of English can he speak.
+
+  比较少见 not 打头的，not 在开头时，宾语也提前了。
+
 - so/neither/nor 倒装（表示“也”）
+
+  意思上 neither 和 nor 在倒装中一样，但词性不同，nor 是 conj. 前面可以用逗号，而 neither 是 adv. 不能连接两个句子，前一句必需句号结尾。
+
+  不要翻译为我也是，而是把上句话完整带入这句，才好理解
+
+  In some ways nuclear power suffers from a chicken-and-egg situation: more manufacturing experience may reduce prices, but to achieve the necessary experience, many new plants must first be paid for and built. So does EVs.
+
+  这里不要翻译成 EVs 也是这样。前面一句那么长，EVs 倒底和哪句一样，要搞明白。肯定不是和冒号后解释说明的一样，而是和句子核心主干的 suffers from a situation 一样。
 
   I can learn math in our school with a computer.
 
@@ -1622,35 +1649,19 @@ I am in school. (be + prep.)
 
   So can other students several years ago. (情态动词没有过去式)
 
-- As 倒装（表示“尽管”）
+  I can not learn math in our school with a computer yesterday. Neither can I.
 
-  As he is a child, he speaks fluent English.
+  You are one of the best students in our class. So is he.
 
-  倒装：A child as he is, he speaks fluent English.
-
-  As she is important, she can not do that.
-
-  倒装：Important as she is, she can not do that.
-
-  As he has a book, he did not read it.
-
-  倒装：A book as he has, he did not read it.
+  I should learn this. So should he.
 
 - As 倒装
 
-  1. 表示“正如”
-
-     As be sb. 正如某人一样
-
-     正常语序：As sb. be
-
-     She is a talented singer, as is her sister.
-
-     He supports the new policy, as do most of his colleagues.
-
-  2. 表示“尽管”
+  1. 表示“尽管”（占90%以上的情况）
 
      将从句中的 形容词、副词、名词、动词提到句首，注意名词提前不可加任何冠词
+
+     形容词：Smart as he is, he made this mistake.
 
      形容词：Proud as he is, he listened to my advice.
 
@@ -1661,6 +1672,28 @@ I am in school. (be + prep.)
      形容词：Happy as you are, you can not do this. 正常语序：As you are happy, you can not do this.
 
      副词：Happily as you play soccer, you can not do this. 正常语序：As you play soccer happily, you can not do this.
+
+     As he is a child, he speaks fluent English.
+
+     倒装：Child as he is, he speaks fluent English. (单数名词前不加冠词，记住即可，没有原因)
+
+     As she is important, she can not do that.
+
+     倒装：Important as she is, she can not do that.
+
+     As he has a book, he did not read it.
+
+     倒装：A book as he has, he did not read it.
+
+  2. 表示“正如”
+
+     As be sb. 正如某人一样
+
+     正常语序：As sb. be
+
+     She is a talented singer, as is her sister.
+
+     He supports the new policy, as do most of his colleagues.
 
 - 比较级倒装
 
