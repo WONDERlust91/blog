@@ -788,13 +788,21 @@ Producing computers from China is interesting.
 
 本质：宾语是个句子
 
-写作时，宾语从句 that 不要省略
+宾语的位置：动词/介词 + 宾语
 
-阅读中，要小心宾语从句 that 可能省略
+有宾语的地方就可能有宾语从句，整个宾语从句的词性与宾语一致，都是名词
 
-介词后也能加宾语，因此有介词的地方就可能有宾语从句
+介词后宾语从句
 
 比如：In a place 可以用宾语从句：In where you play soccer, I am happy.
+
+I like this school in where I live.
+
+非谓语也有动词的性质，因此后面的宾语也能换成宾语从句
+
+例如：Knowing what he wrote in this book, I like it more.
+
+宾语从句中的 that 可以省略。写作时，宾语从句 that 不要省略，可以帮你明确句子关系；阅读中，要小心宾语从句 that 可能省略。
 
 1. that + 完整句子
 
@@ -820,7 +828,7 @@ I think that that these books are good is interesting. 宾语从句套主语从�
 
 ### 定语从句
 
-本质是用句子当形容词，用于修饰名词。
+本质是用句子当形容词，用于修饰名词。定语从句有且只有一个功能：修饰名词。
 
 被修饰的名词在从句中要么作主语，要么作宾语，因此不能用任何关系副词，只能用关系代词 that/which/who 等，记住没有what，没有原因，记住规则即可
 
@@ -853,6 +861,10 @@ I think that that these books are good is interesting. 宾语从句套主语从�
   I like to read these books, which are expensive.
 
   修饰 books 故用 are
+
+  Several ways exist to advance knowledge on how body type may influence antisocial and criminal behaviors, which is common.
+
+  which 修饰 前面整句，但注意整句很长，到底修饰哪部分？修饰前一句的核心主干：several ways exist to advance knowledge
 
   一种好用的变形：
 
@@ -910,6 +922,12 @@ I think that that these books are good is interesting. 宾语从句套主语从�
 - 专有名词 + 从句，从句大概率为定语从句
 
   I liked WTO 20 years ago, which is an organization.
+
+- 易错点
+
+  I like what you eat which is good. 宾从 + 定从 what you eat 作宾语相当一个名词，后面可以加定语从句。口语可用，但写作尽量不要用，语法上不够完美。
+
+  This accident happened that is scary. 注意不是宾从，happen 是不及物动词，不可能有宾从，因此 that 跟得是 accident，是定从。
 
 ### 同位语和同位语从句
 
