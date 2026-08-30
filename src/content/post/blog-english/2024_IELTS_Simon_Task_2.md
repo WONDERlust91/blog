@@ -64,7 +64,7 @@ Answer - somethimes better alone, usually better in a group
 
 Writing:
 
-People have different views about the effectiveness of group study as opposed to working alone. While there are some beenefits to studying independently, I believe that group work is usually more productive.
+People have different views about the effectiveness of group study as opposed to working alone. While there are some benefits to studying independently, I believe that group work is usually more productive.
 
 #### 2. Opinion
 
