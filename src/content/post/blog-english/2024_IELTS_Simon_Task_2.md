@@ -213,7 +213,7 @@ Question:
 
 In many cities the use of video cameras in public places is being increased in order to reduce crime, but some people believe that these measures restrict our individual freedom.
 
-Do the beenefits of increased security outweigh the drawbacks?
+Do the benefits of increased security outweigh the drawbacks?
 
 Introduction:
 
@@ -412,7 +412,7 @@ Writing:
 
 Question:
 
-Some peoplethink that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.
+Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.
 Discuss both these views and give your own opinion.
 
 Planning:
@@ -448,7 +448,7 @@ On the one hand, competition can be a great source of motivation for children. W
 
 On the other hand, it is perhaps even more important to prepare children for the many aspects of adult life that require co-operation. In the workplace, adults are expected to work in teams, follow instructions given by their superiors, or supervise and support the more junior members of staff. Team collaboration skills are much more useful than a competitive determination to win. This is the attitude that I believe schools should foster in young people. Instead of promoting the idea that people are either winners or losers, teachers could show children that they gain more from working together.
 
-In conclusion, I can understand why people might want to encourage competitiveness in children, but it seems to me that a co-operative attitude is much moredesirable in adult life.
+In conclusion, I can understand why people might want to encourage competitiveness in children, but it seems to me that a co-operative attitude is much more desirable in adult life.
 
 Vocabulary:
 

@@ -722,7 +722,7 @@ Do you think that it's better to have clear aims for the future, or is it best t
 
 Answer:
 
-I think it's best to have a good idea of what you want to do with your life, especially in terms of studies and career. (Why) Having aims allows you to plan what you need to do today and tomorrow in order to achieve longer term objectives. (Example) For example, if you want to bcome a doctor, you need to choose the right subjects at school, get the right exam results, and work hard at university. (Opposite) Without a clear aim, it would be impossible to take the necessary steps towards a career in medicine, or any other profession.
+I think it's best to have a good idea of what you want to do with your life, especially in terms of studies and career. (Why) Having aims allows you to plan what you need to do today and tomorrow in order to achieve longer term objectives. (Example) For example, if you want to become a doctor, you need to choose the right subjects at school, get the right exam results, and work hard at university. (Opposite) Without a clear aim, it would be impossible to take the necessary steps towards a career in medicine, or any other profession.
 
 ## Summary of advice for all 3 parts of the speaking test
 

@@ -1986,7 +1986,7 @@ pinned: true
 
   vast adj. （数量或范围）极大的、广阔的
 
-  immense adj. 极大（尤指规模或程度）
+  immense adj. 极大（尤指规模或程度）注意和 immerse v. 沉浸 及 commence v. 开始 及 commerce n. 商业 区分
 
   titanic adj. 有非凡力量、尺寸或力量的；四价钛的
 
@@ -1995,8 +1995,6 @@ pinned: true
   considerable adj. 在尺寸、数量、范围上尤其大
 
   abundant adj. 丰沛的、大量（存在或可用）的
-
-  ample adj. 充足的
 
   numerous adj. （数量）很多的
 
@@ -2017,6 +2015,22 @@ pinned: true
   prodigiously adv. 惊人地、极大地
 
   exponential adj. 指数级的（增长）
+
+  whopping adj. 巨大的
+
+  whopper n. 巨无霸（汉堡王皇堡也是这个词）
+
+- “充足的”
+
+  abundant adj. 丰沛的、大量（存在或可用）的
+
+  adequate adj. 充足的
+
+  ample adj. 充足的
+
+  sufficient adj. 足够的
+
+  enough adj. 足够的
 
 - 表“严重的”、“严峻的”、“严苛的”、“激烈的”
 
@@ -2315,6 +2329,8 @@ pinned: true
 
   attorney n. 律师
 
+  prosecutor n. 检查官（律师，但代表国家或政府，起诉某人）
+
 - “一个字母”或“一个文字”
 
   letter n. 字母（常指拉丁语中一个字母）
@@ -2381,6 +2397,8 @@ pinned: true
 
   infuriate v. 激怒
 
+  irritate v. 使...恼怒
+
 - 表示“依赖...生活”
 
   live off = live on
@@ -2398,6 +2416,8 @@ pinned: true
   yacht n. 游艇 v. 乘游艇
 
   raft n. 木筏；漂浮物；大量的 v. 乘坐木筏；将船绑在一起
+
+  ferry n. 渡轮、摆渡船（短途运送人或货物） v. 轮渡、摆渡
 
 - 表示“认为”
 
@@ -2620,6 +2640,8 @@ pinned: true
 
   leverage
 
+  impose
+
 - “注册与登录”相关
 
   register n. v. 注册
@@ -2677,6 +2699,10 @@ pinned: true
   dubious adj. 犹豫的、怀疑的；不信任的、可疑的
 
   suspicious adj. 可疑的
+
+  skeptical adj. 怀疑的
+
+  doubtful adj. 怀疑的
 
 - 表示“舒缓”、“缓和”
 
